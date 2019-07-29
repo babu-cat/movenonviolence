@@ -13,14 +13,17 @@ RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
 RewriteCond %{HTTP_HOST} ^moulanoviolencia.net$
 RewriteCond %{REQUEST_URI} !^/assets/
+RewriteCond %{REQUEST_URI} !^/fontawesome/
 RewriteRule !^ca/ ca%{REQUEST_URI} [L]
 
 RewriteCond %{HTTP_HOST} ^muevelanoviolencia.net$
 RewriteCond %{REQUEST_URI} !^/assets/
+RewriteCond %{REQUEST_URI} !^/fontawesome/
 RewriteRule !^es/ es%{REQUEST_URI} [L]
 
 RewriteCond %{HTTP_HOST} ^movenonviolence.net$
 RewriteCond %{REQUEST_URI} !^/assets/
+RewriteCond %{REQUEST_URI} !^/fontawesome/
 RewriteRule !^en/ en%{REQUEST_URI} [L]
 
 ##########################
