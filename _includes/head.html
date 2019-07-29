@@ -24,7 +24,7 @@
   {% assign path = "/U" | append: page.number %}
   {% endcase %}
   {% for alternate_lang in alternate_langs %}
-  <link rel="alternate" hreflang="{{ alternate_lang }}" href="{{ site.site_url[alternate_lang] }}/{{ alternate_lang }}{{ path }}" />
+  <link rel="alternate" hreflang="{{ alternate_lang }}" href="{{ site.site_url[alternate_lang] }}{{ path }}" />
   {% endfor %}
 
   <!-- Custom Fonts -->
