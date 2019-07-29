@@ -23,7 +23,7 @@
         {% if page.lang == unit.lang %}
         {% assign classactive=" active" %}
         {% endif %}
-        <a class="dropdown-item{{ classactive }}" href="{{ site.site_url[unit.lang] }}/U{{ unit.number }}">{{ unit.lang | upcase }} </a>
+        <a class="dropdown-item{{ classactive }}" href="{{ site.site_url[unit.lang] }}/U{{ unit.number }}/">{{ unit.lang | upcase }} </a>
         {% endfor %}
       </div>
     </div>
