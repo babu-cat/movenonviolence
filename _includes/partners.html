@@ -1,0 +1,24 @@
+<section class="bg-white page-section" id="partners">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-4 partner-leader">
+        <h2 class="section-heading mb-2">{{ site.data.i18n['leader'][page.lang] }}</h2>
+        <div class="row justify-content-right">
+          <div class="col-6 col-sm-4 col-md-3 col-lg-6">
+            <a href="{{ site.data.partners.leader[0]url[page.lang] }}" target="_blank"><img class="img-fluid p-2" src="/assets/img/partners/{{ site.data.partners.leader[0]image }}" alt=""></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-8">
+        <h2 class="section-heading mb-2">{{ site.data.i18n['partners'][page.lang] }}</h2>
+        <div class="row">
+          {% for partner in site.data.partners.partners %}
+          <div class="col-6 col-sm-3 col-md-3 col-lg-3">
+            <a href="{{ partner.url[page.lang] }}" target="_blank"><img class="img-fluid p-2" src="/assets/img/partners/{{ partner.image }}" alt=""></a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

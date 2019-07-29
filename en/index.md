@@ -1,0 +1,4 @@
+---
+layout: front
+lang: en
+---

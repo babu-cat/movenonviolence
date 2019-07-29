@@ -1,0 +1,27 @@
+ca:
+  - title: El Projecte
+    url: "#project"
+  - title: Unitats didàctiques
+    url: "#units"
+  - title: Tallers
+    url: "#workshops"
+  - title: Equip
+    url: "#team"
+es:
+  - title: El Proyecto
+    url: "#project"
+  - title: Unidades didácticas
+    url: "#units"
+  - title: Talleres
+    url: "#workshops"
+  - title: Equipo
+    url: "#team"
+en:
+  - title: Project
+    url: "#project"
+  - title: Unit plans
+    url: "#units"
+  - title: Workshops
+    url: "#workshops"
+  - title: Team
+    url: "#team"

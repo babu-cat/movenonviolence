@@ -1,0 +1,37 @@
+title: Move Nonviolence
+description: >-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: ""
+url: "https://moulanoviolencia.net"
+site_url:
+  ca: "https://moulanoviolencia.net"
+  es: "https://muevelanoviolencia.net"
+  en: "https://movenonviolence.net"
+domain_language:
+  ca: "moulanoviolencia"
+  es: "muevelanoviolencia"
+  en: "movenonviolence"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-analytics
+
+defaults:
+  - scope:
+      path: ""
+      type: "units"
+    values:
+      layout: "unit"
+
+collections:
+  units:
+    output: true
+    permalink: /:path/
+
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-4283680-5
+    anonymizeIp: false

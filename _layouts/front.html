@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{page.lang}}">
+
+{% capture title %}
+  {{ site.data.i18n['title'][page.lang] }}
+{% endcapture %}
+{% include head.html title=title %}
+
+<body id="page-top" data-spy="scroll" data-target="#navbarSupportedContent">
+  {% include front/nav-front.html %}
+  {% include front/header.html %}
+  {% include front/project.html %}
+  {% include donate.html %}
+  {% include front/units.html %}
+  {% include front/workshops.html %}
+  {% include front/team.html %}
+  {% include partners.html %}
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+
+</html>

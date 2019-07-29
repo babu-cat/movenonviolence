@@ -1,0 +1,24 @@
+// Styling for the team section
+
+#team {
+  h3 {
+    margin-bottom: 0;
+  }
+
+  .team-member {
+    img {
+      width: 175px;
+      height: auto;
+      border: 7px solid fade-out($black, 0.9) !important;
+    }
+
+    h4 {
+      font-weight: 700;
+      font-size: 1.2rem;
+    }
+
+    p {
+      font-size: 0.8rem;
+    }
+  }
+}

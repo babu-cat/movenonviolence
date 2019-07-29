@@ -1,0 +1,46 @@
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>{{ include.title }}</title>
+
+  <!-- Alternate multiple languages -->
+  {% case page.lang %}
+  {% when 'ca' %}
+  {% assign alternate_langs = "es,en" | split: ',' %}
+  {% when 'es' %}
+  {% assign alternate_langs = "ca,en" | split: ',' %}
+  {% when 'en' %}
+  {% assign alternate_langs = "ca,es" | split: ',' %}
+  {% endcase %}
+  {% case page.layout %}
+  {% when 'front' %}
+  {% assign path = "" %}
+  {% when 'unit' %}
+  {% assign path = "/U" | append: page.number %}
+  {% endcase %}
+  {% for alternate_lang in alternate_langs %}
+  <link rel="alternate" hreflang="{{ alternate_lang }}" href="{{ site.site_url[alternate_lang] }}/{{ alternate_lang }}{{ path }}" />
+  {% endfor %}
+
+  <!-- Custom Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Merriweather:300,300i,400,400i,700,700i,900,900i|Nunito+Sans:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/stylesheets/styles.css" type="text/css">
+
+  <!-- Font Awesome -->
+  <link href="/fontawesome/css/all.min.css" rel="stylesheet">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>

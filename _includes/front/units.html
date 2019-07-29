@@ -1,0 +1,31 @@
+<section id="units" class="bg-light page-section">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <h2 class="section-heading">{{ site.data.i18n['unitPlans'][page.lang] }}</h2>
+                <h3 class="section-subheading text-muted">{{ site.data.i18n['unitPlansSubTitle'][page.lang] }}</h3>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+          {% assign units = site.units | where:"lang", page.lang %}
+          {% for unit in units %}
+              <div class="unit-item col-lg-4 col-md-6 text-center">
+                <div class="unit-link">
+                  <div class="unit-hover">
+                    <div class="unit-hover-content">
+                      <a class="col-md-6 unit-link-view" title="Visualitza la unitat didàctica" href="{{ unit.url }}"><i class="fas fa-eye fa-2x"></i></a>
+                      <a download class="col-md-6 unit-link-download" title="Descarrega la unitat didàctica" href="/assets/units/{{ site.domain_language[page.lang] }}-U{{ unit.UID }}.pdf"><i class="fas fa-download fa-2x"></i></a>
+                    </div>
+                  </div>
+                  <img class="img-fluid" src="/assets/img/U{{ unit.UID }}-portada.jpg" alt="{{unit.title}}">
+                </div>
+                <div class="unit-caption bg-white">
+                  <h3><a href="{{ unit.url }}">{{unit.number}}. {{unit.title}}</a></h3>
+                </div>
+              </div>
+          {% endfor %}
+        </div>
+    </div>
+</section>

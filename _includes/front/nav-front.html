@@ -1,0 +1,40 @@
+<span class="position-absolute trigger"><!-- hidden trigger to apply 'stuck' styles --></span>
+<nav id="mainNav" class="navbar fixed-top navbar-expand-lg navbar-light">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <img src="/assets/img/logo_basic_{{ page.lang }}_50.png" alt="{{site.data.i18n['title'][page.lang]}}">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        {% assign links = site.data.navigation[page.lang] %}
+        {% for link in links %}
+          <li class="nav-item{{ class-active }}">
+            <a href="{{ link.url }}" class="nav-link">{{ link.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+      <div class="dropdown" id="navbarLanguageSelector">
+        <a class="btn btn-default dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            {{ page.lang | upcase }}
+        </a>
+  			<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
+          {% assign fronts=site.pages | where:"layout", "front" | sort: 'lang' %}
+          {% for front in fronts %}
+            {% assign classactive="" %}
+            {% if page.lang == front.lang %}
+              {% assign classactive=" active" %}
+            {% endif %}
+            <a class="dropdown-item{{ classactive }}" href="{{ front.url }}">{{ front.lang | upcase }} </a>
+          {% endfor %}
+
+  			</div>
+  		</div>
+    </div>
+
+  </div>
+</nav>

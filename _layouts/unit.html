@@ -1,0 +1,23 @@
+---
+layout: unit
+---
+
+<!DOCTYPE html>
+<html lang="{{unit.lang}}">
+{% capture title %}
+  {{ site.data.i18n['title'][page.lang] }} · {{ site.data.i18n['unitPlan'][page.lang] }} {{ page.number }}
+{% endcapture %}
+{% include head.html title=title %}
+
+<body id="page-top" data-spy="scroll" data-target="#navbarSupportedContent">
+  {% include unit/nav-unit.html %}
+  {% include unit/main.html %}
+  {% include unit/materials.html %}
+  {% include unit/info.html %}
+  {% include donate.html %}
+  {% include partners.html %}
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+
+</html>

@@ -1,0 +1,126 @@
+// Styling for the navbar
+#mainNav {
+  .nav-material-title {
+    display: none;
+  }
+  .navbar-toggler {
+    font-size: 12px;
+    right: 0;
+    padding: 13px;
+    text-transform: uppercase;
+    color: white;
+    border: 0;
+    background-color: $light;
+    @include heading-font;
+  }
+  .navbar-brand {
+    color: $primary;
+    @include script-font;
+    &.active,
+    &:active,
+    &:focus,
+    &:hover {
+      color: darken($primary, 10%);
+    }
+  }
+  #navbarSupportedContent {
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgba(255,255,255,0.95);
+  }
+  .navbar-nav {
+    .nav-item {
+      .nav-link {
+        font-size: 90%;
+        font-weight: 400;
+        padding: 0.75em 0;
+        letter-spacing: 1px;
+        color: $gray-700;
+        text-transform: uppercase;
+        @include heading-font;
+        &.active,
+        &:hover {
+          color: $primary;
+        }
+      }
+    }
+  }
+}
+#navbarLanguageSelector {
+  .dropdown-menu {
+    font-size: 90%;
+    min-width: auto;
+    background-color: rgba(255,255,255,.9);
+    .dropdown-item {
+      font-size: 90%;
+      color: $gray-700;
+      padding: 0.25rem 1.0rem;
+      &.active,
+      &:active {
+        background-color: transparent;
+        color: $primary;
+      }
+    }
+  }
+  a.btn {
+    font-size: 90%;
+    font-weight: normal;
+    border-radius: 0;
+    color: $gray-700;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    &.focus,
+    &:focus {
+      box-shadow: none;
+    }
+  }
+}
+.stuck #mainNav {
+  background-color: $white;
+  padding-top: 0;
+  padding-bottom: 0;
+  .navbar-toggler {
+    padding: 8px;
+  }
+  .navbar-nav .nav-item .nav-link {
+    color: $primary;
+    &.active {
+      color: $gray-700;
+    }
+  }
+  .nav-material-title {
+    display: block;
+  }
+}
+@media(min-width:992px) {
+  #mainNav {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
+    -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
+    transition: padding-top 0.3s, padding-bottom 0.3s;
+    border: none;
+    background-color: transparent;
+    .navbar-brand {
+      font-size: 1.75em;
+      -webkit-transition: all 0.3s;
+      -moz-transition: all 0.3s;
+      transition: all 0.3s;
+    }
+    #navbarSupportedContent {
+      background-color: transparent;
+    }
+    .navbar-nav {
+      .nav-item {
+        .nav-link {
+          padding: 1.1em 1em !important;
+        }
+      }
+    }
+  }
+  #navbarLanguageSelector {
+    a.btn {
+      padding: 0.375rem 0.75rem;
+    }
+  }
+}

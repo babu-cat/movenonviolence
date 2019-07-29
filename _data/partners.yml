@@ -1,0 +1,32 @@
+leader:
+  - name: "Cristianisme i Justícia"
+    url:
+      ca: "https://www.cristianismeijusticia.net"
+      es: "https://www.cristianismeijusticia.net/es"
+      en: "https://www.cristianismeijusticia.net/en"
+    image: "cj.png"
+partners:
+  - name: "Espai Societat oberta"
+    url:
+      ca: "https://www.espaisocietatoberta.org/"
+      es: "https://www.espaisocietatoberta.org/es"
+      en: "https://www.espaisocietatoberta.org/en"
+    image: "espai-societat-oberta.png"
+  - name: "ICIP"
+    url:
+      ca: "http://icip.gencat.cat/ca"
+      es: "http://icip.gencat.cat/es"
+      en: "http://icip.gencat.cat/en"
+    image: "icip.png"
+  - name: "Ajuntament de Barcelona"
+    url:
+      ca: "https://ajuntament.barcelona.cat/ca"
+      es: "https://ajuntament.barcelona.cat/es"
+      en: "https://ajuntament.barcelona.cat/en"
+    image: "ajuntament-bcn.png"
+  - name: "NOVACT"
+    url:
+      ca: "https://novact.org/"
+      es: "https://novact.org/?lang=es"
+      en: "https://novact.org/?lang=en"
+    image: "novact.png"

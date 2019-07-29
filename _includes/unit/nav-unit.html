@@ -1,0 +1,32 @@
+<span class="position-absolute trigger">
+  <!-- hidden trigger to apply 'stuck' styles --></span>
+<nav id="mainNav" class="navbar fixed-top navbar-expand-lg navbar-light">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <img src="/assets/img/logo_basic_{{ page.lang }}_50.png" alt="{{site.data.i18n['title'][page.lang]}}">
+    </a>
+    <div class="nav-material-title text-center">
+      <span class="text-muted">{{ site.data.i18n['unitPlan'][page.lang] }} {{ page.number }}</span>
+      <br>
+      <span class="font-weight-bold">{{ page.title }}</span>
+    </div>
+
+    <div class="dropdown" id="navbarLanguageSelector">
+      <a class="btn btn-default dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        {{ page.lang | upcase }}
+      </a>
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
+        {% assign units=site.units | where:"number", page.number | sort: 'lang' %}
+        {% for unit in units %}
+        {% assign classactive="" %}
+        {% if page.lang == unit.lang %}
+        {% assign classactive=" active" %}
+        {% endif %}
+        <a class="dropdown-item{{ classactive }}" href="{{ unit.url }}">{{ unit.lang | upcase }} </a>
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+</nav>

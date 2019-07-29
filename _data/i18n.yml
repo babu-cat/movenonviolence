@@ -1,0 +1,217 @@
+title:
+  ca: "Mou la noviolència"
+  es: "Mueve la noviolencia"
+  en: "Move Nonviolence"
+headerText1:
+  ca: "Tot el que necessites saber per"
+  es: "Todo lo que necesitas saber para"
+  en: "Everything you need to know to"
+headerText2:
+  ca: "<span class='text-primary'>moure</span> la <span class='text-no'>no</span>violència"
+  es: "<span class='text-primary'>mover</span> la <span class='text-no'>no</span>violencia"
+  en: "<span class='text-primary'>move</span> <span class='text-no'>non</span>violence"
+headerButton:
+  ca: "Descarrega't les unitats didàctiques"
+  es: "Descárgate las unidades didácticas"
+  en: "Download unit plans"
+projectText1:
+  ca: "<span class='text-primary'>Mou</span><span class='text-violence'> la </span><span class='text-no'>no</span><span class='text-violence'>violència</span> és un projecte impulsat pel Grup de Treball en Noviolència Cristiana del centre d’estudis Cristianisme i Justícia. Neix de la necessitat de donar eines davant l’augment del discurs d’odi que s’estén en la nostra realitat social, política i econòmica; una realitat que ens ha dut a formes de vida de gran voracitat i agressió i que ha desembocat en vies cada cop més subtils d’opressió: polítiques basades en el menyspreu del diferent, malabars borsaris amb els preus dels aliments més bàsics, abusos a través de lleis injustes que transformen crisis migratòries en drames humanitaris, violència masclista aparentment camuflada, etc."
+  es: "<span class='text-primary'>Mueve</span><span class='text-violence'> la </span><span class='text-no'>no</span><span class='text-violence'>violencia</span> es un proyecto impulsado por el Grupo de Trabajo en Noviolencia Cristiana del centro de estudios Cristianisme i Justícia. Nace de la necesidad de dar herramientas ante el aumento del discurso de odio que se extiende en nuestra realidad social, política y económica; una realidad que nos ha llevado a formas de vida de gran voracidad y agresión y que ha desembocado en vías cada vez más sutiles de opresión: políticas basadas en el desprecio al diferente, malabares bursátiles con los precios de los alimentos más básicos, abusos a través de leyes injustas que transforman crisis migratorias en dramas humanitarios, violencia machista aparentemente camuflada, etc."
+  en:
+projectText2:
+  ca: "El projecte va dirigit a tota persona o col·lectiu interessat en la noviolència com a mecanisme per a la resolució de conflictes. En especial, s’adreça a entitats dedicades a l’àmbit de la Justícia Global i la Pau i a educadores provinents del món educatiu, tant formal com no formal. L’objectiu principal és donar-los eines i recursos amb què puguin dinamitzar sessions i activitats de formació per tal d’afrontar i transformar els conflictes des de la perspectiva noviolenta. El material inclou dotze unitats didàctiques que consten cadascuna d’un vídeo d’animació presentant el tema i d’un llibret que desenvolupa en deu capítols els continguts d’aquella unitat; tot el material és descarregable gratuïtament en català, castellà i anglès. El fet de ser produïts en tres llengües i mantenir una perspectiva aconfessional, el fa ser un material apte per a qualsevol grup, amb independència de la seva condició, pensament o religió."
+  es: "El proyecto va dirigido a toda persona o colectivo interesado en la noviolencia como mecanismo para la resolución de conflictos. En especial, se dirige a entidades dedicadas al ámbito de la Justicia Global y la Paz y educadoras provenientes del mundo educativo, tanto formal como no formal. El objetivo principal es darles herramientas y recursos con los que puedan dinamizar sesiones y actividades de formación para afrontar y transformar los conflictos desde la perspectiva noviolenta. El material incluye doce unidades didácticas que constan cada una de un vídeo de animación presentando el tema y de un librito que desarrolla en diez capítulos los contenidos de aquella unidad; todo el material es descargable gratuitamente en catalán, castellano e inglés. El hecho de ser producidos en tres lenguas y mantener una perspectiva aconfesional, le hace ser un material apto para cualquier grupo, con independencia de su condición, pensamiento o religión."
+  en:
+donateText:
+  ca: "Si vols col·laborar en finançar el projecte, ho pots fer a través d’una donació a l’entitat impulsora, Cristianisme i Justícia, posant com a concepte 'Mou la noviolència'."
+  es: "Si quieres colaborar en financiar el proyecto, puedes hacerlo a través de una donación a la entidad impulsora, Cristianisme i Justícia, poniendo como concepto 'Mueve la noviolencia'"
+  en:
+donateButton:
+  ca: "Col·labora amb el projecte"
+  es: "Colabora con el proyecto"
+  en:
+donateURL:
+  ca: "https://www.cristianismeijusticia.net/formulari-d%E2%80%99aportaci%C3%B3"
+  es: "https://www.cristianismeijusticia.net/es/formulario-de-aportacion"
+  en:
+unitPlans:
+  ca: "Unitats didàctiques"
+  es: "Unidades didácticas"
+  en: "Unit plans"
+unitPlansSubTitle:
+  ca: "Aprèn a afrontar i transformar els conflictes des de la persepectiva de la noviolència amb aquesta col·lecció d'unitats didàctiques."
+  es: "Aprende a afrontar y transformar los conflictos desde la perspectiva de la noviolencia con esta colección de unidades didácticas."
+  en:
+workshops:
+  ca: "Vine i t'ho expliquem!"
+  es: "Ven y te lo explicamos!"
+  en: "Come and we explain it to you!"
+workshopsSubtitle:
+  ca: "Participa del taller que s'adeqüi més al teu perfil o vine a la presentació oficial per conèixer el projecte i ajudar-nos a moure la noviolència."
+  es: "Participa del taller que se adecúe más a tu perfil o ven a la presentación oficial para conocer el proyecto y ayudarnos a mover la noviolencia."
+  en:
+workshopPresentation:
+  ca: "Taller presentació"
+  es: "Taller presentación"
+  en: "Presentation Workshop"
+workshopPresentationText:
+  ca: "Dirigit a periodistes, entitats que treballen per la Justícia Global i la Pau i persones que a títol individual estan interessades en la promoció de la noviolència."
+  es: "Dirigido a periodistas, entidades que trabajan para la Justicia Global y la Paz y personas que a título individual estan interesadas en la promoción de la noviolencia."
+  en: ""
+workshopFormalEducators:
+  ca: "Taller per a docents"
+  es: "Taller para docentes"
+  en: "Teacher Workshop"
+workshopFormalEducatorsText:
+  ca: "Dirigit a persones provinents del món educatiu i que vulguin treballar la noviolència als seus espais de procedència. Taller especialment orientat a persones procedents d'entorns d'educació formal com escoles i instituts."
+  es: "Dirigido a personas provenientes del mundo educativo y que quieran trabajar la noviolencia en sus espacios de procedencia. Taller especialmente orientado a personas procedentes de entornos de educación formal como colegios e institutos."
+  en: ""
+workshopNonFormalEducators:
+  ca: "Taller per educadors en el lleure"
+  es: "Taller para educadores en el tiempo libre"
+  en: "Workshop for educators at leisure"
+workshopNonFormalEducatorsText:
+  ca: "Dirigit a persones provinents del món educatiu i que vulguin treballar la noviolència als seus espais de procedència. Taller especialment orientat a persones procedents d'entorns d'educació no formal com esplais, caus i altres
+  entitats relacionades amb el món del lleure."
+  es: "Dirigido a personas provenientes del mundo educativo y que quieran trabajar la noviolencia en sus espacios de procedencia. Taller especialmente orientado a personas procedentes de entornos de educación no formal como esplais, centros juveniles y otras entidades relacionadas con el mundo del tiempo libre."
+  en: ""
+officialPresentation:
+  ca: "Presentació oficial"
+  es: "Presentación oficial"
+  en: "Official presentation"
+officialPresentationText:
+  ca: "Sessió dirigida a periodistes, entitats i a tota persona que pugui estar interessada en la promoció de la noviolència."
+  es: "Sesión dirigida a periodistas, entidades y a toda persona que pueda estar interesada en la promoción de la noviolencia"
+  en: ""
+septemberAbr:
+  ca: "set"
+  es: "sep"
+  en: "sep"
+octoberAbr:
+  ca: "oct"
+  es: "oct"
+  en: "oct"
+novemberAbr:
+  ca: "nov"
+  es: "nov"
+  en: "nov"
+decemberAbr:
+  ca: "dec"
+  es: "dic"
+  en: "dec"
+mondayAbr:
+  ca: "dl"
+  es: "lu"
+  en: "mo"
+tuesdayAbr:
+  ca: "dt"
+  es: "ma"
+  en: "tu"
+wednesdayAbr:
+  ca: "dc"
+  es: "mi"
+  en: "we"
+thursdayAbr:
+  ca: "dj"
+  es: "ju"
+  en: "th"
+fridayAbr:
+  ca: "dv"
+  es: "vi"
+  en: "fr"
+at:
+  ca: "a les"
+  es: "a las"
+  en: "at"
+inscriptions:
+  ca: "Inscripcions"
+  es: "Inscripciones"
+  en: "Inscriptions"
+team:
+  ca: "Equip"
+  es: "Equipo"
+  en: "Team"
+teamSubtitle:
+  ca: "<span class='text-primary'>Mou</span><span class='text-violence'> la </span><span class='text-no'>no</span><span class='text-violence'>violència</span> és un projecte d'incidència social per a l'educació i l'entrenament en la noviolència impulsat pel <a href='https://www.cristianismeijusticia.net/noviolenciacristiana'>Grup de Treball en Noviolència Cristiana</a> del centre d’estudis Cristianisme i Justícia. Els responsables de la producció dels seus continguts estan especialitzats en la noviolència des de diferents àmbits de recerca i coneixement."
+  es: "Mueve la noviolencia es un proyecto de incidencia social para la educación y el entrenamiento en la noviolencia impulsado por el <a href='https://www.cristianismeijusticia.net/es/noviolenciacristiana'>Grupo de Trabajo en Noviolencia Cristiana</a> del centro de estudios Cristianisme i Justícia. Los responsables de la producción de sus contenidos están especializados en la noviolencia desde diferentes ámbitos de investigación y conocimiento."
+  en:
+leader:
+  ca: "Un projecte de"
+  es: "Un proyecto de"
+  en: "A project of"
+partners:
+  ca: "Amb el suport de"
+  es: "Con el apoyo de"
+  en: "With the support of"
+contact:
+  ca: "Contacta"
+  es: "Contacta"
+  en: "Contact"
+contactMail:
+  ca: "moulanoviolencia@fespinal.com"
+  es: "muevelanoviolencia@fespinal.com"
+  en: "movenonviolence@fespinal.com"
+legal:
+  ca: "Avís legal"
+  es: "Aviso legal"
+  en: "Legal"
+legalURL:
+  ca: "https://www.cristianismeijusticia.net/avis-legal"
+  es: "https://www.cristianismeijusticia.net/es/aviso-legal"
+  en: "https://www.cristianismeijusticia.net/es/aviso-legal"
+privacity:
+  ca: "Privacitat"
+  es: "Privacidad"
+  en: "Privacity"
+privacityURL:
+  ca: "https://www.cristianismeijusticia.net/avis-legal"
+  es: "https://www.cristianismeijusticia.net/es/aviso-legal"
+  en: "https://www.cristianismeijusticia.net/es/aviso-legal"
+cookies:
+  ca: "Galetes"
+  es: "Cookies"
+  en: "Cookies"
+cookiesURL:
+  ca: "https://www.cristianismeijusticia.net/avis-legal"
+  es: "https://www.cristianismeijusticia.net/es/aviso-legal"
+  en: "https://www.cristianismeijusticia.net/es/aviso-legal"
+license:
+  ca: "Llicència"
+  es: "Licencia"
+  en: "License"
+unitPlan:
+  ca: "Unitat didàctica"
+  es: "Unidad didáctica"
+  en: "Unit plan"
+downloadUnitPlan:
+  ca: "Descarrega la unitat didàctica"
+  es: "Descarga la unidad didáctica"
+  en: "Download Unit plan"
+printableVersion:
+  ca: "Versió per imprimir"
+  es: "Versión para imprimir"
+  en: "Printable version"
+bibliography:
+  ca: "Bibliografia"
+  es: "Bibliografía"
+  en: "Bibliography"
+videoTranscription:
+  ca: "Transcripció del vídeo"
+  es: "Transcripción del video"
+  en: "Video transcription"
+materials:
+  ca: "Materials"
+  es: "Materiales"
+  en: "Materials"
+materialsSubtitle:
+  ca: "Els recursos llistats a continuació es troben referenciats al llibret de la unitat didàctica."
+  es: "Los recursos listados a continuación se encuentran referenciados en el librito de la unidad didáctica."
+  en:
+about:
+  ca: "Com treballar la unitat didàctica"
+  es: "Cómo trabajar la unidad didáctica"
+  en: "How to work the plan unit"
+howToWorkIt:
+  ca: "Aquesta unitat didàctica va dirigida a persones educadores, guies i monitores que vulguin treballar amb els seus grups, de manera interactiva i dinàmica, els conceptes i les lògiques internes de la noviolència, tot capacitant-los en la transformació de conflictes. Aquest material es presenta en <strong>tres llengües</strong> -català, castellà i anglès- per facilitar-ne la implementació a diferents contextos i països. Els continguts consten d’un breu <strong>vídeo d’animació</strong> presentant el tema de la unitat i d’un <strong>llibret</strong> que el desplega en deu capítols oferint conceptes i activitats pràctiques. A més, s’inclou una <strong>transcripció</strong> del vídeo a descarregar, per facilitar-ne el treball a l’aula i en grup. Qui lidera el grup podrà adaptar, escurçar o ampliar el que proposem segons el temps de què disposi i el tipus de públic. Per tal de preparar-se, a més de les nocions que adjuntem en cada capítol, trobareu al final de la guia una breu bibliografia, que podeu ampliar amb més títols i llengües descarregant-vos el document <strong></i>Bibliografia</i></strong> que incloem a part per a cada unitat. Els continguts disposen de llicència <strong>Creative Commons</strong> per a poder ser distribuïts lliurement i adaptats en altres materials sense fins comercials tot citant-ne l’autoria."
+  es: "Esta unidad didáctica va dirigida a personas educadoras, guías y monitoras que quieran trabajar con sus grupos, de manera interactiva y dinámica, los conceptos y las lógicas internas de la noviolencia, capacitándolos en la transformación de conflictos. Este material se presenta en <strong>tres idiomas</strong> -catalán, español e inglés- para facilitar su implementación en diferentes contextos y países. Los contenidos constan de un breve <strong>vídeo de animación</strong> presentando el tema de la unidad y de un libro que lo desarrolla en diez capítulos ofreciendo conceptos y actividades prácticas. Además, se incluye una <strong>transcripción</strong> del vídeo a descargar, para facilitar su trabajo en el aula y en grupo. Quien lidera el grupo podrá adaptar, acortar o ampliar el material que proponemos según el tiempo de que disponga y el tipo de público. Para prepararse, además de las nociones que se adjuntan en cada capítulo, se encuentra al final de la guía una breve bibliografía, que se pueden ampliar con más títulos y lenguas descargando el documento <strong></i>Bibliografía</i></strong> que incluimos aparte para cada unidad. Los contenidos disponen de licencia <strong>Creative Commons</strong> para poder ser distribuidos libremente y adaptados en otros materiales sin fines comerciales citando la autoría."
+  en: ""

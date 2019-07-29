@@ -1,0 +1,20 @@
+<section class="bg-light page-section" id="team">
+  <div class="container">
+    <div class="row">
+      <div class="col text-center">
+        <h2 class="section-heading mb-5">{{ site.data.i18n['team'][page.lang] }}</h2>
+        <div class="row mb-4">
+          {% assign teamMembers=site.data.team %}
+          {% for teamMember in teamMembers %}
+          <div class="col-6 col-md-3 team-member">
+            <img class="border img-fluid rounded-circle mb-4" src="/assets/img/team/{{ teamMember.image }}">
+            <h4>{{ teamMember.name }}</h4>
+            <p class="text-muted">{{ teamMember.description[page.lang] }}
+          </div>
+          {% endfor %}
+        </div>
+        <h3 class="section-subheading text-muted">{{ site.data.i18n['teamSubtitle'][page.lang] }}</h3>
+      </div>
+    </div>
+  </div>
+</section>

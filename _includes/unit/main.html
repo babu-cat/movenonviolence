@@ -1,0 +1,31 @@
+<section class="page-section" id="main">
+  <div class="container">
+    <h1>
+      <small class="text-muted">{{ site.data.i18n['unitPlan'][page.lang] }} {{ page.number }}</small>
+      <br>
+      {{ page.title }}
+    </h1>
+    <p class="lead text-muted">{{ page.subtitle }}</p>
+    <div class="p-2 bg-white">
+      <div class="youtube-container">
+        <iframe class="" width="100%" height="auto" src="https://www.youtube.com/embed/{{ page.youtubeVideoId }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="row mb-2 mt-2">
+        <div class="col">
+          <a download href="/assets/units/{{ site.domain_language[page.lang] }}-U{{ page.UID }}.pdf" target="_blank" class="btn btn-primary btn-lg btn-block"><i class="fa fa-download"></i> {{ site.data.i18n['downloadUnitPlan'][page.lang] }}</a>
+        </div>
+      </div>
+      <div class="row mb-2">
+        <div class="col-12 col-md-4 pb-2">
+          <a download href="/assets/units/printable/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-printable.pdf" class="btn btn-outline-secondary btn-block"><i class="fa fa-print"></i> {{ site.data.i18n['printableVersion'][page.lang] }}</a>
+        </div>
+        <div class="col-12 col-md-4 pb-2">
+          <a download href="/assets/units/bibliography/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-biblio.pdf" class="btn btn-outline-secondary btn-block"><i class="fa fa-file-alt"></i> {{ site.data.i18n['bibliography'][page.lang] }}</a>
+        </div>
+        <div class="col-12 col-md-4 pb-2">
+          <a download href="/assets/units/transcriptions/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-trxn.pdf" class="btn btn-outline-secondary btn-block"><i class="fa fa-file-alt"></i> {{ site.data.i18n['videoTranscription'][page.lang] }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
