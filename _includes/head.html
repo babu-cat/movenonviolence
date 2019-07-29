@@ -1,31 +1,48 @@
 <head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <meta name="description" content="{{ include.description }}">
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@cijusticia">
+  <meta name="twitter:title" content="{{ include.title }}">
+  <meta name="twitter:description" content="{{ include.description }}">
+  <meta name="twitter:image" content="{{ site.site_url[page.lang] }}/assets/img/twitter-card.png">
+  <!-- Open Graph data -->
+  <meta property="og:title" content="{{ include.title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ include.page_url }}" />
+  <meta property="og:image" content="{{ site.site_url[page.lang] }}/assets/img/og-image.png" />
+  <meta property="og:description" content="{{ include.description }}" />
+  <meta property="og:site_name" content="{{ site.data.i18n['title'][page.lang] }}" />
+  {% if page.youtubeVideoId -%}
+  <meta property="og:video" content="https://www.youtube.com/watch?v={{ page.youtubeVideoId }}" />
+  {%- endif %}
+  <meta property="og:locale" content="{{ site.language_territory[page.lang] }}" />
+  {%- case page.lang -%}
+  {%- when 'ca' -%}
+  {%- assign alternate_langs = "es,en" | split: ',' -%}
+  {%- when 'es' -%}
+  {%- assign alternate_langs = "ca,en" | split: ',' -%}
+  {%- when 'en' -%}
+  {%- assign alternate_langs = "ca,es" | split: ',' -%}
+  {%- endcase -%}
+  {%- case page.layout -%}
+  {%- when 'front' -%}
+  {%- assign path = "" -%}
+  {%- when 'unit' -%}
+  {%- assign path = "/U" | append: page.number -%}
+  {%- endcase -%}
+  {% for alternate_lang in alternate_langs %}
+  <meta property="og:locale_alternate" content="{{ site.language_territory[alternate_lang] }}" />
+  {%- endfor %}
 
   <title>{{ include.title }}</title>
 
   <!-- Alternate multiple languages -->
-  {% case page.lang %}
-  {% when 'ca' %}
-  {% assign alternate_langs = "es,en" | split: ',' %}
-  {% when 'es' %}
-  {% assign alternate_langs = "ca,en" | split: ',' %}
-  {% when 'en' %}
-  {% assign alternate_langs = "ca,es" | split: ',' %}
-  {% endcase %}
-  {% case page.layout %}
-  {% when 'front' %}
-  {% assign path = "" %}
-  {% when 'unit' %}
-  {% assign path = "/U" | append: page.number %}
-  {% endcase %}
   {% for alternate_lang in alternate_langs %}
   <link rel="alternate" hreflang="{{ alternate_lang }}" href="{{ site.site_url[alternate_lang] }}{{ path }}" />
-  {% endfor %}
+  {%- endfor %}
 
   <!-- Custom Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Merriweather:300,300i,400,400i,700,700i,900,900i|Nunito+Sans:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">

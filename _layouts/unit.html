@@ -4,10 +4,16 @@ layout: unit
 
 <!DOCTYPE html>
 <html lang="{{page.lang}}">
-{% capture title %}
-  {{ site.data.i18n['title'][page.lang] }} · {{ site.data.i18n['unitPlan'][page.lang] }} {{ page.number }}
+{%- capture title -%}
+  {{- site.data.i18n['title'][page.lang] }} | {{ page.number -}}.{{- page.title -}}
+{%- endcapture -%}
+{%- capture description -%}
+  {{- page.subtitle -}}
 {% endcapture %}
-{% include head.html title=title %}
+{%- capture page_url -%}
+  {{- site.site_url[page.lang] }}/U{{ page.number -}}
+{%- endcapture -%}
+{%- include head.html title=title description=description page_url=page_url -%}
 
 <body id="page-top" data-spy="scroll" data-target="#navbarSupportedContent">
   {% include unit/nav-unit.html %}
