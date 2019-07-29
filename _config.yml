@@ -35,3 +35,5 @@ jekyll_analytics:
   GoogleAnalytics:
     id: UA-4283680-5
     anonymizeIp: false
+
+exclude: ["README.md", "Gemfile.lock", "Gemfile"]
