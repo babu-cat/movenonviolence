@@ -1,24 +1,24 @@
-- name: "Xavier Garí de Barbarà"
+﻿- name: "Xavier Garí de Barbarà"
   description:
     ca: "Doctor en Història Comparada Social i Política (UAB) i professor d'Història a l'escola Sant Ignasi (Jesuïtes Sarrià)"
     es: "Doctor en Historia Comparada Social y Política (UAB) y profesor de Historia en la escuela Sant Ignasi (Jesuitas Sarrià)"
-    en:
+    en: "Doctor in Comparative Social and Political History (UAB) and professor of history at the Sant Ignasi (Jesuïtes Sarrià) school"
   image: xavier.jpg
 - name: "Marta Burguet Arfelis"
   description:
     ca: "Doctora en Pedagogia (UB), professora en la Facultat d'Educació de la Universitat de Barcelona"
     es: "Doctora en Pedagogía (UB), profesora en la Facultad de Educación de la Universidad de Barcelona"
-    en:
+    en: "Doctor in Pedagogy (UB), professor in the faculty of education at the Universitat de Barcelona"
   image: marta.jpg
 - name: "Joan Morera Perich"
   description:
     ca: "Jesuïta graduat en Informàtica (UdG) i llicenciat en Teologia Bíblica (Pontificia Università Gregoriana)"
     es: "Jesuita graduado en Informática (UdG) y licenciado en Teología Bíblica (Pontificia Università Gregoriana)"
-    en:
+    en: "Jesuit with degree in Computer Science (UdG) and licentiate in Biblical Theology (Pontificia Università Gregoriana)"
   image: joan.jpg
 - name: "Álvaro Mellado Domínguez"
   description:
     ca: "Graduat en International Relations a London Metropolitan University i màster en Conflict, Security and Development a Bradford University"
     es: "Graduado en International Relations en London Metropolitan University y máster en Conflict, Security and Development en Bradford University"
-    en:
+    en: "Degree in international relations from London Metropolitan University and Master’s in Conflict, Security, and Development from Bradford University" 
   image: alvaro.jpg
