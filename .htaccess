@@ -34,7 +34,7 @@ RewriteRule !^en/ en%{REQUEST_URI} [L]
 RewriteCond %{HTTP_HOST} !^moulanoviolencia.net$
 
 # CA - UNITAT 1
-Redirect /ca/U1/video https://www.youtube.com/watch?v=9wEpyIiF7Qs
+Redirect /ca/U1/video https://www.youtube.com/watch?v=1t3vrmKNsV8
 Redirect /ca/U1/01 https://www.youtube.com/watch?v=N1WdfVWo1pQ
 Redirect /ca/U1/02 /assets/01/Diagrama_CAT.png
 Redirect /ca/U1/03 https://www.youtube.com/watch?v=Ambq98T1OsQ
@@ -43,7 +43,7 @@ Redirect /ca/U1/05 https://www.youtube.com/watch?v=QfYKJNDvE_A
 Redirect /ca/U1/06 https://www.youtube.com/watch?v=j17axG1s1fo
 
 # CA - UNITAT 2
-Redirect /ca/U2/video https://www.youtube.com/watch?v=5w-exIpTZV4
+Redirect /ca/U2/video https://www.youtube.com/watch?v=2RLbuGnDO54
 Redirect /ca/U2/01 https://www.youtube.com/watch?v=LWhJhGXO9Go
 Redirect /ca/U2/02 https://www.youtube.com/watch?v=79MTkVumCcQ
 Redirect /ca/U2/03 https://www.youtube.com/watch?v=HWzMQjNTKFo
@@ -51,7 +51,7 @@ Redirect /ca/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215
 Redirect /ca/U2/05 http://wus-streaming-video-msn-com.akamaized.net/c32bf1fa-e7f6-423d-b2dd-7e9e55744012/7168d4c5-5cac-45bd-9bf3-10db876a_2250.mp4
 
 # CA - UNITAT 3
-Redirect /ca/U3/video https://www.youtube.com/watch?v=xGFVXZ64e7A
+Redirect /ca/U3/video https://www.youtube.com/watch?v=KSNfO-2-OFM
 Redirect /ca/U3/01 /assets/03/Brain_CAT.png
 Redirect /ca/U3/02 https://elpais.com/elpais/2016/06/17/masterdeperiodismo/1466180368_500528.html
 Redirect /ca/U3/03 https://www.youtube.com/watch?v=zZOnto0TAeI&cc_load_policy=1&cc_lang_pref=es
@@ -78,7 +78,7 @@ Redirect /ca/U3/18 http://www.kivaprogram.net/spain/evidencia-de-efectividad
 RewriteCond %{HTTP_HOST} !^muevelanoviolencia.net$
 
 # ES - UNITAT 1
-Redirect /es/U1/video https://www.youtube.com/watch?v=TKqBwrvduXc
+Redirect /es/U1/video https://www.youtube.com/watch?v=6ZjnzzJPYCM
 Redirect /es/U1/01 https://www.youtube.com/watch?v=N1WdfVWo1pQ
 Redirect /es/U1/02 /assets/01/Diagrama_ESP.png
 Redirect /es/U1/03 https://www.youtube.com/watch?v=Ambq98T1OsQ
@@ -87,7 +87,7 @@ Redirect /es/U1/05 https://www.youtube.com/watch?v=QfYKJNDvE_A
 Redirect /es/U1/06 https://www.youtube.com/watch?v=j17axG1s1fo
 
 # ES - UNITAT 2
-Redirect /es/U2/video https://www.youtube.com/watch?v=HI6cv23U8nU
+Redirect /es/U2/video https://www.youtube.com/watch?v=cTW1p74JixY
 Redirect /es/U2/01 https://www.youtube.com/watch?v=LWhJhGXO9Go
 Redirect /es/U2/02 https://www.youtube.com/watch?v=79MTkVumCcQ
 Redirect /es/U2/03 https://www.youtube.com/watch?v=HWzMQjNTKFo
@@ -95,7 +95,7 @@ Redirect /es/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215
 Redirect /es/U2/05 http://wus-streaming-video-msn-com.akamaized.net/c32bf1fa-e7f6-423d-b2dd-7e9e55744012/7168d4c5-5cac-45bd-9bf3-10db876a_2250.mp4
 
 # ES - UNITAT 3
-Redirect /es/U3/video https://www.youtube.com/watch?v=eBcuZ6-Oe-8
+Redirect /es/U3/video https://www.youtube.com/watch?v=eHo_sh9-fe8
 Redirect /es/U3/01 /assets/03/Brain_ESP.png
 Redirect /es/U3/02 https://elpais.com/elpais/2016/06/17/masterdeperiodismo/1466180368_500528.html
 Redirect /es/U3/03 https://www.youtube.com/watch?v=zZOnto0TAeI&cc_load_policy=1&cc_lang_pref=es
