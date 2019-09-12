@@ -1,32 +1,74 @@
-leader:
-  - name: "Cristianisme i Justícia"
+leaders:
+  - name:
+      ca: "Cristianisme i Justícia"
+      es: "Cristianisme i Justícia"
+      en: "Cristianisme i Justícia"
     url:
       ca: "https://www.cristianismeijusticia.net"
       es: "https://www.cristianismeijusticia.net/es"
       en: "https://www.cristianismeijusticia.net/en"
-    image: "cj.png"
+    image:
+      ca: "cj.png"
+      es: "cj.png"
+      en: "cj.png"
+  - name:
+      ca: "Grup de Treball en Noviolència Cristiana"
+      es: "Grupo de Trabajo en Noviolencia Cristiana"
+      en: "Working Group on Christian Nonviolence"
+    url:
+      ca: "https://www.cristianismeijusticia.net/noviolenciacristiana"
+      es: "https://www.cristianismeijusticia.net/es/noviolenciacristiana"
+      en: "https://www.cristianismeijusticia.net/en/christiannonviolence"
+    image:
+      ca: "gtnv-ca.png"
+      es: "gtnv-es.png"
+      en: "gtnv-en.png"
 partners:
-  - name: "Espai Societat oberta"
+  - name:
+      ca: "Espai Societat Oberta"
+      es: "Espai Societat Oberta"
+      en: "Espai Societat Oberta"
     url:
       ca: "https://www.espaisocietatoberta.org/"
       es: "https://www.espaisocietatoberta.org/es"
       en: "https://www.espaisocietatoberta.org/en"
-    image: "espai-societat-oberta.png"
-  - name: "ICIP"
+    image:
+      ca: "espai-societat-oberta.png"
+      es: "espai-societat-oberta.png"
+      en: "espai-societat-oberta.png"
+  - name:
+      ca: "ICIP"
+      es: "ICIP"
+      en: "ICIP"
     url:
       ca: "http://icip.gencat.cat/ca"
       es: "http://icip.gencat.cat/es"
       en: "http://icip.gencat.cat/en"
-    image: "icip.png"
-  - name: "Ajuntament de Barcelona"
+    image:
+      ca: "icip.png"
+      es: "icip.png"
+      en: "icip.png"
+  - name:
+      ca: "Ajuntament de Barcelona"
+      es: "Ajuntament de Barcelona"
+      en: "Ajuntament de Barcelona"
     url:
       ca: "https://ajuntament.barcelona.cat/ca"
       es: "https://ajuntament.barcelona.cat/es"
       en: "https://ajuntament.barcelona.cat/en"
-    image: "ajuntament-bcn.png"
-  - name: "NOVACT"
+    image:
+      ca: "ajuntament-bcn.png"
+      es: "ajuntament-bcn.png"
+      en: "ajuntament-bcn.png"
+  - name:
+      ca: "NOVACT"
+      es: "NOVACT"
+      en: "NOVACT"
     url:
       ca: "https://novact.org/"
       es: "https://novact.org/?lang=es"
       en: "https://novact.org/?lang=en"
-    image: "novact.png"
+    image:
+      ca: "novact.png"
+      es: "novact.png"
+      en: "novact.png"
