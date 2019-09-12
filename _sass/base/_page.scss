@@ -31,6 +31,11 @@ h6 {
   @include heading-font;
 }
 
+h1.logo {
+  margin: 0px;
+  font-size: inherit;
+}
+
 .page-section {
   padding: 100px 0;
   h2.section-heading {
