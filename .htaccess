@@ -122,7 +122,7 @@ Redirect /es/U3/18 http://www.kivaprogram.net/spain/evidencia-de-efectividad
 RewriteCond %{HTTP_HOST} !^movenonviolence.net$
 
 # EN - UNITAT 1
-Redirect /en/U1/video https://www.youtube.com/watch?v=
+Redirect /en/U1/video https://www.youtube.com/watch?v=HDcZljv6OnI
 Redirect /en/U1/01 https://www.youtube.com/watch?v=vdb4XGVTHkE
 Redirect /en/U1/02 /assets/01/Diagrama_ENG.png
 Redirect /en/U1/03 https://www.youtube.com/watch?v=3BnNdLxGNB8
