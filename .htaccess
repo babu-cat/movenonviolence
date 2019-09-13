@@ -122,7 +122,7 @@ Redirect /es/U3/18 http://www.kivaprogram.net/spain/evidencia-de-efectividad
 RewriteCond %{HTTP_HOST} !^movenonviolence.net$
 
 # EN - UNITAT 1
-Redirect /en/U1/video https://www.youtube.com/?
+Redirect /en/U1/video https://www.youtube.com/watch?v=
 Redirect /en/U1/01 https://www.youtube.com/watch?v=vdb4XGVTHkE
 Redirect /en/U1/02 /assets/01/Diagrama_ENG.png
 Redirect /en/U1/03 https://www.youtube.com/watch?v=3BnNdLxGNB8
@@ -131,7 +131,7 @@ Redirect /en/U1/05 https://www.youtube.com/watch?v=QfYKJNDvE_A
 Redirect /en/U1/06 https://www.youtube.com/watch?v=j17axG1s1fo
 
 # EN - UNITAT 2
-Redirect /en/U2/video https://www.youtube.com/?
+Redirect /en/U2/video https://www.youtube.com/watch?v=GO0breFAE_M
 Redirect /en/U2/01 https://www.youtube.com/watch?v=LWhJhGXO9Go
 Redirect /en/U2/02 https://www.youtube.com/watch?v=79MTkVumCcQ
 Redirect /en/U2/03 https://www.youtube.com/watch?v=HWzMQjNTKFo
@@ -139,7 +139,7 @@ Redirect /en/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215
 Redirect /en/U2/05 http://wus-streaming-video-msn-com.akamaized.net/c32bf1fa-e7f6-423d-b2dd-7e9e55744012/7168d4c5-5cac-45bd-9bf3-10db876a_2250.mp4
 
 # EN - UNITAT 3
-Redirect /en/U3/video https://www.youtube.com/?
+Redirect /en/U3/video https://www.youtube.com/watch?v=TL0P20A4EVQ
 Redirect /en/U3/01 /assets/03/Brain_ENG.png
 Redirect /en/U3/02 https://elpais.com/elpais/2016/06/17/masterdeperiodismo/1466180368_500528.html
 Redirect /en/U3/03 https://www.youtube.com/watch?v=zZOnto0TAeI
