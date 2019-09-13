@@ -17,7 +17,7 @@
       </div>
       <div class="row mb-2">
         <div class="col-12 col-md-4 pb-2">
-          <a download href="/assets/units/printable/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-printable.pdf" class="btn btn-outline-secondary btn-block"><i class="fa fa-print"></i> {{ site.data.i18n['printableVersion'][page.lang] }}</a>
+          <a download href="/assets/units/printable/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-{{site.data.i18n['printableVersionSuffix'][page.lang]}}.pdf" class="btn btn-outline-secondary btn-block"><i class="fa fa-print"></i> {{ site.data.i18n['printableVersion'][page.lang] }}</a>
         </div>
         <div class="col-12 col-md-4 pb-2">
           <a download href="/assets/units/bibliography/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-biblio.pdf" class="btn btn-outline-secondary btn-block"><i class="fa fa-file-alt"></i> {{ site.data.i18n['bibliography'][page.lang] }}</a>

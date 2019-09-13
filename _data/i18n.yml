@@ -195,6 +195,10 @@ printableVersion:
   ca: "Versió per imprimir"
   es: "Versión para imprimir"
   en: "Version for printing"
+printableVersionSuffix:
+  ca: "impr"
+  es: "impr"
+  en: "print"
 bibliography:
   ca: "Bibliografia"
   es: "Bibliografía"
