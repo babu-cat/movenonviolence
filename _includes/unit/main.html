@@ -12,18 +12,18 @@
       </div>
       <div class="row mb-2 mt-2">
         <div class="col">
-          <a download href="/assets/units/{{ site.domain_language[page.lang] }}-U{{ page.UID }}.pdf" target="_blank" class="btn btn-primary btn-lg btn-block"><i class="fa fa-download"></i> {{ site.data.i18n['downloadUnitPlan'][page.lang] }}</a>
+          <a download href="/assets/units/{{ site.domain_language[page.lang] }}-U{{ page.UID }}.pdf" target="_blank" class="btn btn-primary btn-lg btn-block" onclick="ga('send', 'event', 'Downloads', 'Unit PDF Download', 'U{{ page.UID }}');"><i class="fa fa-download"></i> {{ site.data.i18n['downloadUnitPlan'][page.lang] }}</a>
         </div>
       </div>
       <div class="row mb-2">
         <div class="col-12 col-md-4 pb-2">
-          <a download href="/assets/units/printable/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-{{site.data.i18n['printableVersionSuffix'][page.lang]}}.pdf" class="btn btn-outline-secondary btn-block"><i class="fa fa-print"></i> {{ site.data.i18n['printableVersion'][page.lang] }}</a>
+          <a download href="/assets/units/printable/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-{{site.data.i18n['printableVersionSuffix'][page.lang]}}.pdf" class="btn btn-outline-secondary btn-block" onclick="ga('send', 'event', 'Downloads', 'Unit PDF Download (printable version)', 'U{{ page.UID }}');"><i class="fa fa-print"></i> {{ site.data.i18n['printableVersion'][page.lang] }}</a>
         </div>
         <div class="col-12 col-md-4 pb-2">
-          <a download href="/assets/units/bibliography/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-biblio.pdf" class="btn btn-outline-secondary btn-block"><i class="fa fa-file-alt"></i> {{ site.data.i18n['bibliography'][page.lang] }}</a>
+          <a download href="/assets/units/bibliography/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-biblio.pdf" class="btn btn-outline-secondary btn-block" onclick="ga('send', 'event', 'Downloads', 'Unit PDF Download (bibliography)', 'U{{ page.UID }}');"><i class="fa fa-file-alt"></i> {{ site.data.i18n['bibliography'][page.lang] }}</a>
         </div>
         <div class="col-12 col-md-4 pb-2">
-          <a download href="/assets/units/transcriptions/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-trxn.pdf" class="btn btn-outline-secondary btn-block"><i class="fa fa-file-alt"></i> {{ site.data.i18n['videoTranscription'][page.lang] }}</a>
+          <a download href="/assets/units/transcriptions/{{ site.domain_language[page.lang] }}-U{{ page.UID }}-trxn.pdf" class="btn btn-outline-secondary btn-block"  onclick="ga('send', 'event', 'Downloads', 'Unit PDF Download (transcription)', 'U{{ page.UID }}');"><i class="fa fa-file-alt"></i> {{ site.data.i18n['videoTranscription'][page.lang] }}</a>
         </div>
       </div>
     </div>
