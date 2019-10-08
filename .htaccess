@@ -72,7 +72,10 @@ Redirect /ca/U3/17 https://www.youtube.com/watch?v=sAhTRE27r14
 Redirect /ca/U3/18 http://www.kivaprogram.net/spain/evidencia-de-efectividad
 
 # CA - UNITAT 4
-
+Redirect /ca/U4/video https://www.youtube.com/watch?v=4GCQv71zdBM
+Redirect /ca/U4/01 https://www.youtube.com/watch?v=FHzAnNQBzA8
+Redirect /ca/U4/02 https://www.youtube.com/watch?v=6NSzZl5g_bI
+Redirect /ca/U4/03 https://www.icrc.org/es/document/el-cicr-y-la-segunda-guerra-mundial-el-holocausto
 
 # ES #
 RewriteCond %{HTTP_HOST} !^muevelanoviolencia.net$
@@ -116,7 +119,10 @@ Redirect /es/U3/17 https://www.youtube.com/watch?v=sAhTRE27r14
 Redirect /es/U3/18 http://www.kivaprogram.net/spain/evidencia-de-efectividad
 
 # ES - UNITAT 4
-
+Redirect /es/U4/video https://www.youtube.com/watch?v=pzvql-HMGWw
+Redirect /es/U4/01 https://www.youtube.com/watch?v=FHzAnNQBzA8
+Redirect /es/U4/02 https://www.youtube.com/watch?v=6NSzZl5g_bI
+Redirect /es/U4/03 https://www.icrc.org/es/document/el-cicr-y-la-segunda-guerra-mundial-el-holocausto
 
 # EN #
 RewriteCond %{HTTP_HOST} !^movenonviolence.net$
@@ -160,6 +166,10 @@ Redirect /en/U3/17 https://www.youtube.com/watch?v=YJSehRlU34w
 Redirect /en/U3/18 http://www.kivaprogram.net/is-kiva-effective
 
 # EN - UNITAT 4
+Redirect /en/U4/video https://www.youtube.com/watch?v=vZrkJFm-MD8
+Redirect /en/U4/01 https://www.youtube.com/watch?v=4mrE5zgEvt4
+Redirect /en/U4/02 https://www.youtube.com/watch?v=MQx39z99_Js
+Redirect /en/U4/03 https://www.icrc.org/en/document/icrc-wwii-holocaust
 
 
 ###################
