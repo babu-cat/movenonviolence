@@ -14,7 +14,7 @@ Desenvolupat amb Jekyll i Bootstrap 4.
 
 **Coordinació del projecte**
 
-Pau Cuadern Masiques
+Pau Cuadern Masiques i Joan Morera Perich
 
 **Creació de continguts**
 
