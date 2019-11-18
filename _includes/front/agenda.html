@@ -1,0 +1,25 @@
+<section class="bg-white page-section" id="agenda">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col text-center">
+        <h2 class="section-heading">{{ site.data.i18n['agenda'][page.lang] }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.i18n['agendaSubtitle'][page.lang] }}</h3>
+        <div class="row justify-content-center">
+          <div class="col-12 col-xl-6">
+            <h4 class="title"><i class="fas fa-bullhorn"></i> {{ site.data.i18n['officialPresentation'][page.lang] }}</h4>
+              <div class="row justify-content-center agenda-dates">
+                <div class="col-6 agenda-date border border-terciary rounded bg-terciary m-3">
+                  {{ site.data.i18n['mondayAbr'][page.lang] }} 9 {{ site.data.i18n['decemberAbr'][page.lang] }}
+                  <span class="agenda-hour text-white">{{ site.data.i18n['at'][page.lang] }} 19h</span>
+                </div>
+              </div>
+              <span class="text-muted"><i class="fas fa-map-marker"></i> <a href="https://www.cristianismeijusticia.net/" target="_blank">Cristianisme i Justícia</a></span>
+              <p class="agenda-description">
+                {{ site.data.i18n['officialPresentationText'][page.lang] }}
+              </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

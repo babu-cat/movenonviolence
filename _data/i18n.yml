@@ -46,39 +46,14 @@ unitPlansSubTitle:
   ca: "Aprèn a afrontar i transformar els conflictes des de la persepectiva de la noviolència amb aquesta col·lecció d'unitats didàctiques."
   es: "Aprende a afrontar y transformar los conflictos desde la perspectiva de la noviolencia con esta colección de unidades didácticas."
   en: "Learn to deal with and transform conflicts from the perspective of nonviolence, with the help of this collection of educational units."
-workshops:
+agenda:
   ca: "Vine i t'ho expliquem!"
   es: "¡Ven y te lo explicamos!"
   en: "Come and let us explain it to you!"
-workshopsSubtitle:
-  ca: "Participa del taller que s'adeqüi més al teu perfil o vine a la presentació oficial per conèixer el projecte i ajudar-nos a moure la noviolència."
-  es: "Participa del taller que se adecúe más a tu perfil o ven a la presentación oficial para conocer el proyecto y ayudarnos a mover la noviolencia."
-  en: "Take part in the workshop that most suits your profile, or come to the official presentation in order to learn about the project and promote nonviolence."
-workshopPresentation:
-  ca: "Taller presentació"
-  es: "Taller presentación"
-  en: "Presentation Workshop"
-workshopPresentationText:
-  ca: "Dirigit a periodistes, entitats que treballen per la Justícia Global i la Pau i persones que a títol individual estan interessades en la promoció de la noviolència."
-  es: "Dirigido a periodistas, entidades que trabajan para la Justicia Global y la Paz y personas que a título individual estan interesadas en la promoción de la noviolencia."
-  en: "Addressed to journalists, organizations working for Global Justice and Peace, and individuals who are personally interested in the promotion of nonviolence."
-workshopFormalEducators:
-  ca: "Taller per a docents"
-  es: "Taller para docentes"
-  en: "Teacher Workshop"
-workshopFormalEducatorsText:
-  ca: "Dirigit a persones provinents del món educatiu i que vulguin treballar la noviolència als seus espais de procedència. Taller especialment orientat a persones procedents d'entorns d'educació formal com escoles i instituts."
-  es: "Dirigido a personas provenientes del mundo educativo y que quieran trabajar la noviolencia en sus espacios de procedencia. Taller especialmente orientado a personas procedentes de entornos de educación formal como colegios e institutos."
-  en: "Addressed to persons coming from the world of education who want to treat the topic of nonviolence in the places where the work. A workshop especially geared to persons working in places of formal education, such as colleges and institutes."
-workshopNonFormalEducators:
-  ca: "Taller per educadors en el lleure"
-  es: "Taller para educadores en el tiempo libre"
-  en: "Workshop for educators in values"
-workshopNonFormalEducatorsText:
-  ca: "Dirigit a persones provinents del món educatiu i que vulguin treballar la noviolència als seus espais de procedència. Taller especialment orientat a persones procedents d'entorns d'educació no formal com esplais, caus i altres
-  entitats relacionades amb el món del lleure."
-  es: "Dirigido a personas provenientes del mundo educativo y que quieran trabajar la noviolencia en sus espacios de procedencia. Taller especialmente orientado a personas procedentes de entornos de educación no formal como esplais, centros juveniles y otras entidades relacionadas con el mundo del tiempo libre."
-  en: "Addressed to persons coming from the world of education who want to treat the topic of nonviolence in the places where they work. A workshop especially geared to persons working in non-formal education such as youth centers and other entities related to the world of education in values."
+agendaSubtitle:
+  ca: "Vine a la presentació oficial per conèixer el projecte i ajudar-nos a moure la noviolència."
+  es: "Ven a la presentación oficial para conocer el proyecto y ayudarnos a mover la noviolencia."
+  en: "Come to the official presentation in order to learn about the project and promote nonviolence."
 officialPresentation:
   ca: "Presentació oficial"
   es: "Presentación oficial"

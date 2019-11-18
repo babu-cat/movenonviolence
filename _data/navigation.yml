@@ -3,8 +3,8 @@ ca:
     url: "#project"
   - title: Unitats didàctiques
     url: "#units"
-  - title: Tallers
-    url: "#workshops"
+  - title: Agenda
+    url: "#agenda"
   - title: Equip
     url: "#team"
 es:
@@ -12,8 +12,8 @@ es:
     url: "#project"
   - title: Unidades didácticas
     url: "#units"
-  - title: Talleres
-    url: "#workshops"
+  - title: Agenda
+    url: "#agenda"
   - title: Equipo
     url: "#team"
 en:
@@ -21,7 +21,7 @@ en:
     url: "#project"
   - title: Unit plans
     url: "#units"
-  - title: Workshops
-    url: "#workshops"
+  - title: Agenda
+    url: "#agenda"
   - title: Team
     url: "#team"
