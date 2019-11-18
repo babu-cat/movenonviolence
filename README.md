@@ -40,6 +40,10 @@ Contingut [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%2
 
 ## Desenvolupament
 
+`bundle install`
+
+`jekyll -s verbose`
+
 ## Publicació
 
 `JEKYLL_ENV=production jekyll build`
