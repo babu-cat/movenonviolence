@@ -22,3 +22,9 @@
     es: "Trabajador humanitario. Graduado en International Relations en London Metropolitan University y máster en Conflict, Security and Development en Bradford University"
     en: "Humanitarian Worker. Degree in international relations from London Metropolitan University and Master’s in Conflict, Security, and Development from Bradford University"
   image: alvaro.jpg
+- name: "Laura Sols Balcells"
+  description:
+    ca: "Graduada en Filosofia (UAB) i estudiant del màster Ciutadania i Drets Humans: Ètica i Política (UB)"
+    es: "Graduada en Filosofía (UAB) y estudiante del máster Ciudadanía y Derechos Humanos: Ética y Política (UB)"
+    en: "Graduate in Philosophy and student of master's degree in Citizenship and Human Rights: Ethics and Politics."
+  image: laura.jpg

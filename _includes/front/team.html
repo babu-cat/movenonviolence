@@ -3,10 +3,10 @@
     <div class="row">
       <div class="col text-center">
         <h2 class="section-heading mb-5">{{ site.data.i18n['team'][page.lang] }}</h2>
-        <div class="row mb-4">
+        <div class="row mb-4 justify-content-md-center">
           {% assign teamMembers=site.data.team %}
           {% for teamMember in teamMembers %}
-          <div class="col-6 col-md-3 team-member">
+          <div class="col-4 col-md-2 team-member">
             <img class="border img-fluid rounded-circle mb-4" src="/assets/img/team/{{ teamMember.image }}">
             <h4>{{ teamMember.name }}</h4>
             <p class="text-muted">{{ teamMember.description[page.lang] }}

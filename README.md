@@ -18,7 +18,7 @@ Pau Cuadern Masiques i Joan Morera Perich
 
 **Creació de continguts**
 
-Xavier Garí de Barbarà, Marta Burguet Arfelis, Joan Morera Perich i Álvaro Medallo Domínguez
+Xavier Garí de Barbarà, Marta Burguet Arfelis, Joan Morera Perich, Álvaro Medallo Domínguez i Laura Sols Balcells
 
 **Disseny i maquetació**
 
