@@ -1,0 +1,26 @@
+<div class="row material-item mb-2 pl-2 pr-2">
+  {% if material.link %}
+    {% assign materialLink=material.link %}
+  {% else %}
+    {% assign materialLink=/U{{page.number}}/{{material.number}} %}
+  {% endif %}
+  <a href="{{material.link}}" target="_blank" class="material-item-number-type col-2 offset-md-2 text-center text-decoration-none bg-terciary border border-terciary rounded-left">
+    {% if material.number %}
+      {{ material.number }}<br>
+    {% endif %}
+    {% case material.type %}
+    {% when "video" %}
+    <i class="fa fa-play-circle"></i>
+    {% when "image" %}
+    <i class="fa fa-image"></i>
+    {% when "text" %}
+    <i class="far fa-file-alt"></i>
+    {% endcase %}
+  </a>
+  <div class="col col-md-6 material-item-content bg-white border border-terciary rounded-right">
+    <a href="{{material.link}}" target="_blank">
+      <h3>{{ material.title }}</h3>
+    </a>
+    <div>{{ material.description }}</div>
+  </div>
+</div>

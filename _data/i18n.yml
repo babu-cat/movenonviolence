@@ -190,6 +190,10 @@ materialsSubtitle:
   ca: "Els recursos llistats a continuació es troben referenciats al llibret de la unitat didàctica."
   es: "Los recursos listados a continuación se encuentran referenciados en el librito de la unidad didáctica."
   en: "References to the resources listed below are found in the booklet of the educational unit."
+otherMaterials:
+  ca: "Altres referències"
+  es: "Otras referencias"
+  en: "Other references"
 about:
   ca: "Com treballar la unitat didàctica"
   es: "Cómo trabajar la unidad didáctica"

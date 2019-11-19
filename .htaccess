@@ -77,6 +77,19 @@ Redirect /ca/U4/01 https://www.youtube.com/watch?v=FHzAnNQBzA8
 Redirect /ca/U4/02 https://www.youtube.com/watch?v=6NSzZl5g_bI
 Redirect /ca/U4/03 https://www.icrc.org/es/document/el-cicr-y-la-segunda-guerra-mundial-el-holocausto
 
+# CA - UNITAT 5
+Redirect /ca/U5/video https://www.youtube.com/watch?v=9QMKQ2omqUw
+Redirect /ca/U5/01 https://www.youtube.com/embed/OsFEV35tWsg?hl=es&cc_lang_pref=es&cc_load_policy=1
+Redirect /ca/U5/02 https://www.youtube.com/embed/lwcgG6SwapI
+Redirect /ca/U5/03 https://www.youtube.com/embed/_UG2bJfcn_8
+Redirect /ca/U5/04 https://solidaridad.net/sumilao-una-victoria-con-mucho-sacrifico6204/
+Redirect /ca/U5/05 https://www.youtube.com/watch?v=MwfjC1PXrhE
+Redirect /ca/U5/06 https://www.youtube.com/embed/UPSvfn0q-CM
+Redirect /ca/U5/07 https://www.youtube.com/embed/9Hq9rf0XgrI
+Redirect /ca/U5/08 https://www.youtube.com/embed/OIpgrZ8yS-Q?hl=en&cc_lang_pref=es&cc_load_policy=1
+Redirect /ca/U5/09 https://www.youtube.com/embed/N8Zc71J6On4
+Redirect /ca/U5/10 https://www.youtube.com/embed/r8i9MPTVhuk
+
 # ES #
 RewriteCond %{HTTP_HOST} !^muevelanoviolencia.net$
 
@@ -124,6 +137,19 @@ Redirect /es/U4/01 https://www.youtube.com/watch?v=FHzAnNQBzA8
 Redirect /es/U4/02 https://www.youtube.com/watch?v=6NSzZl5g_bI
 Redirect /es/U4/03 https://www.icrc.org/es/document/el-cicr-y-la-segunda-guerra-mundial-el-holocausto
 
+# ES - UNITAT 5
+Redirect /es/U5/video https://www.youtube.com/watch?v=98aCs227mrI
+Redirect /es/U5/01 https://www.youtube.com/embed/OsFEV35tWsg?hl=es&cc_lang_pref=es&cc_load_policy=1
+Redirect /es/U5/02 https://www.youtube.com/embed/lwcgG6SwapI
+Redirect /es/U5/03 https://www.youtube.com/embed/_UG2bJfcn_8
+Redirect /es/U5/04 https://solidaridad.net/sumilao-una-victoria-con-mucho-sacrifico6204/
+Redirect /es/U5/05 https://www.youtube.com/watch?v=MwfjC1PXrhE
+Redirect /es/U5/06 https://www.youtube.com/embed/UPSvfn0q-CM
+Redirect /es/U5/07 https://www.youtube.com/embed/9Hq9rf0XgrI
+Redirect /es/U5/08 https://www.youtube.com/embed/OIpgrZ8yS-Q?hl=en&cc_lang_pref=es&cc_load_policy=1
+Redirect /es/U5/09 https://www.youtube.com/embed/N8Zc71J6On4
+Redirect /es/U5/10 https://www.youtube.com/embed/r8i9MPTVhuk
+
 # EN #
 RewriteCond %{HTTP_HOST} !^movenonviolence.net$
 
@@ -170,6 +196,19 @@ Redirect /en/U4/video https://www.youtube.com/watch?v=pzvql-HMGWw
 Redirect /en/U4/01 https://www.youtube.com/watch?v=4mrE5zgEvt4
 Redirect /en/U4/02 https://www.youtube.com/watch?v=MQx39z99_Js
 Redirect /en/U4/03 https://www.icrc.org/en/document/icrc-wwii-holocaust
+
+# EN - UNITAT 5
+Redirect /en/U5/video https://www.youtube.com/watch?v=HOTxQrtiMGg
+Redirect /en/U5/01 https://www.youtube.com/embed/OsFEV35tWsg?hl=en&cc_lang_pref=en&cc_load_policy=1
+Redirect /en/U5/02 https://www.youtube.com/embed/lwcgG6SwapI
+Redirect /en/U5/03 https://www.youtube.com/embed/KdYo5jn29w4
+Redirect /en/U5/04 https://www.rappler.com/move-ph/185345-sumilao-farmers-decade-after-march
+Redirect /en/U5/05 https://www.youtube.com/embed/_VF_cpbhamU
+Redirect /en/U5/06 https://www.youtube.com/embed/H7zBWMPq-kU
+Redirect /en/U5/07 https://www.youtube.com/embed/9Hq9rf0XgrI
+Redirect /en/U5/08 https://www.youtube.com/embed/OIpgrZ8yS-Q?hl=en&cc_lang_pref=en&cc_load_policy=1
+Redirect /en/U5/09 https://www.youtube.com/watch?v=rH_d_L33V2s
+Redirect /en/U5/10 https://www.youtube.com/embed/r8i9MPTVhuk
 
 
 ###################

@@ -3,28 +3,17 @@
     <div class="row">
       <div class="col-lg-12">
         <h2 class="section-heading text-center">{{ site.data.i18n['materials'][page.lang] }}</h2>
-        <h3 class="section-subheading text-muted text-center">{{ site.data.i18n['materialsSubtitle'][page.lang] }}</h3>
+        <div class="section-subheading text-muted text-center">{{ site.data.i18n['materialsSubtitle'][page.lang] }}</div>
         {% assign materials=page.materials %}
         {% for material in materials %}
-        <div class="row material-item mb-2 pl-2 pr-2">
-          <a href="/U{{page.number}}/{{material.number}}" class="material-item-number-type col-2 offset-md-2 text-center text-decoration-none bg-terciary border border-terciary rounded-left">
-            {{ material.number }}<br>
-            {% case material.type %}
-            {% when "video" %}
-            <i class="fa fa-play-circle"></i>
-            {% when "image" %}
-            <i class="fa fa-image"></i>
-            {% when "text" %}
-            <i class="far fa-file-alt"></i>
-            {% endcase %}
-          </a>
-          <div class="col col-md-6 material-item-content bg-white border border-terciary rounded-right">
-            <a href="/U{{page.number}}/{{material.number}}">
-              <h3>{{ material.title }}</h3>
-            </a>
-            <div>{{ material.description }}</div>
-          </div>
-        </div>
+          {% include unit/material.html %}
+        {% endfor %}
+        {% if page.otherMaterials %}
+          <div class="section-heading text-muted text-center mb-4 mt-5">{{ site.data.i18n['otherMaterials'][page.lang] }}</div>
+        {% endif %}
+        {% assign otherMaterials=page.otherMaterials %}
+        {% for material in otherMaterials %}
+          {% include unit/material.html %}
         {% endfor %}
       </div>
     </div>
