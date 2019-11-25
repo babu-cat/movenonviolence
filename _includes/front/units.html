@@ -31,7 +31,17 @@
                     {% endif %}
                   </div>
                   <div class="unit-caption bg-white">
-                    <h3><a href="/U{{ unit.number }}/">{{unit.number}}. {{unit.title}}</a></h3>
+                    <h3>
+                    {% if unit.preview %}
+                    {% else %}
+                    <a href="/U{{ unit.number }}/">
+                    {% endif %}
+                    {{unit.number}}. {{unit.title}}
+                    {% if unit.preview %}
+                    {% else %}
+                    </a>
+                    {% endif %}
+                    </h3>
                   </div>
                 </div>
               {% endif %}

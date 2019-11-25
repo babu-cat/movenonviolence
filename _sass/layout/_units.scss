@@ -40,12 +40,14 @@
   }
   .unit-caption {
     padding: 25px;
-    h3 a {
-      color: $gray-900;
+    h3 {
       font-size: 1.5rem;
       font-weight: bold;
-      &:hover {
-        text-decoration: none;
+      a {
+        color: $gray-900;
+        &:hover {
+          text-decoration: none;
+        }
       }
     }
   }
