@@ -90,6 +90,14 @@ Redirect /ca/U5/08 https://www.youtube.com/embed/OIpgrZ8yS-Q?hl=en&cc_lang_pref=
 Redirect /ca/U5/09 https://www.youtube.com/embed/N8Zc71J6On4
 Redirect /ca/U5/10 https://www.youtube.com/embed/r8i9MPTVhuk
 
+# CA - UNITAT 6
+Redirect /ca/U6/video https://www.youtube.com/watch?v=R0hev2BwgPE
+Redirect /ca/U6/01 https://www.youtube.com/embed/Hbufpkw76ic
+Redirect /ca/U6/02 https://www.youtube.com/embed/7JEwKNsIDBQ
+Redirect /ca/U6/03 https://www.tolerance.org/classroom-resources/film-kits/viva-la-causa
+Redirect /ca/U6/04 http://icip.gencat.cat/web/.content/continguts/publicacions/llibres/eines/Eines22/180305-eines22_FIN.pdf
+Redirect /ca/U6/05 https://www.youtube.com/embed/caoyLrCGnYc
+
 # ES #
 RewriteCond %{HTTP_HOST} !^muevelanoviolencia.net$
 
@@ -149,6 +157,14 @@ Redirect /es/U5/07 https://www.youtube.com/embed/9Hq9rf0XgrI
 Redirect /es/U5/08 https://www.youtube.com/embed/OIpgrZ8yS-Q?hl=en&cc_lang_pref=es&cc_load_policy=1
 Redirect /es/U5/09 https://www.youtube.com/embed/N8Zc71J6On4
 Redirect /es/U5/10 https://www.youtube.com/embed/r8i9MPTVhuk
+
+# ES - UNITAT 6
+Redirect /es/U6/video https://www.youtube.com/watch?v=W6FpN8CL-OY
+Redirect /es/U6/01 https://www.youtube.com/embed/Hbufpkw76ic
+Redirect /es/U6/02 https://www.youtube.com/embed/7JEwKNsIDBQ
+Redirect /es/U6/03 https://www.tolerance.org/classroom-resources/film-kits/viva-la-causa
+Redirect /es/U6/04 https://hardymerriman.com/wp-content/uploads/2017/01/ManualSpanish.pdf
+Redirect /es/U6/05 https://www.youtube.com/embed/caoyLrCGnYc
 
 # EN #
 RewriteCond %{HTTP_HOST} !^movenonviolence.net$
@@ -210,6 +226,13 @@ Redirect /en/U5/08 https://www.youtube.com/embed/OIpgrZ8yS-Q?hl=en&cc_lang_pref=
 Redirect /en/U5/09 https://www.youtube.com/watch?v=rH_d_L33V2s
 Redirect /en/U5/10 https://www.youtube.com/embed/r8i9MPTVhuk
 
+# EN - UNITAT 6
+Redirect /en/U6/video https://www.youtube.com/watch?v=G89Cr3c4OFo
+Redirect /en/U6/01 https://www.youtube.com/embed/8-eV6ZQQ3YY
+Redirect /en/U6/02 https://www.youtube.com/embed/1mcCLm_LwpE
+Redirect /en/U6/03 https://www.tolerance.org/classroom-resources/film-kits/viva-la-causa
+Redirect /en/U6/04 https://www.aeinstein.org/wp-content/uploads/2013/09/Civilian-Based-Defense-English.pdf
+Redirect /en/U6/05 https://www.youtube.com/embed/hGqSAtUoiVU
 
 ###################
 # PROVES INICIALS #
