@@ -35,7 +35,7 @@ RewriteCond %{HTTP_HOST} !^moulanoviolencia.net$
 
 # CA - UNITAT 1
 Redirect /ca/U1/video https://www.youtube.com/watch?v=1t3vrmKNsV8
-Redirect /ca/U1/01 https://www.youtube.com/embed/N1WdfVWo1pQ
+Redirect /ca/U1/01 https://www.youtube.com/embed/N1WdfVWo1pQ?start=235
 Redirect /ca/U1/02 /assets/01/Diagrama_CAT.png
 Redirect /ca/U1/03 https://www.youtube.com/watch?v=3BnNdLxGNB8
 Redirect /ca/U1/04 https://www.youtube.com/embed/dmV4IzJZEVs?hl=en&cc_load_policy=1&cc_lang_pref=en
@@ -103,7 +103,7 @@ RewriteCond %{HTTP_HOST} !^muevelanoviolencia.net$
 
 # ES - UNITAT 1
 Redirect /es/U1/video https://www.youtube.com/watch?v=6ZjnzzJPYCM
-Redirect /es/U1/01 https://www.youtube.com/embed/N1WdfVWo1pQ
+Redirect /es/U1/01 https://www.youtube.com/embed/N1WdfVWo1pQ?start=235
 Redirect /es/U1/02 /assets/01/Diagrama_ESP.png
 Redirect /es/U1/03 https://www.youtube.com/watch?v=3BnNdLxGNB8
 Redirect /es/U1/04 https://www.youtube.com/embed/dmV4IzJZEVs?hl=en&cc_load_policy=1&cc_lang_pref=en
@@ -171,7 +171,7 @@ RewriteCond %{HTTP_HOST} !^movenonviolence.net$
 
 # EN - UNITAT 1
 Redirect /en/U1/video https://www.youtube.com/watch?v=HDcZljv6OnI
-Redirect /en/U1/01 https://www.youtube.com/embed/vdb4XGVTHkE
+Redirect /en/U1/01 https://www.youtube.com/embed/vdb4XGVTHkE?start=235
 Redirect /en/U1/02 /assets/01/Diagrama_ENG.png
 Redirect /en/U1/03 https://www.youtube.com/watch?v=3BnNdLxGNB8
 Redirect /en/U1/04 https://www.youtube.com/embed/dmV4IzJZEVs
