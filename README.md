@@ -42,7 +42,7 @@ Contingut [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%2
 
 `bundle install`
 
-`jekyll -s verbose`
+`jekyll serve` or `jekyll build`
 
 ## Publicació
 
