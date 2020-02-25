@@ -46,66 +46,6 @@ unitPlansSubTitle:
   ca: "Aprèn a afrontar i transformar els conflictes des de la persepectiva de la noviolència amb aquesta col·lecció d'unitats didàctiques."
   es: "Aprende a afrontar y transformar los conflictos desde la perspectiva de la noviolencia con esta colección de unidades didácticas."
   en: "Learn to deal with and transform conflicts from the perspective of nonviolence, with the help of this collection of educational units."
-agenda:
-  ca: "Vine i t'ho expliquem!"
-  es: "¡Ven y te lo explicamos!"
-  en: "Come and let us explain it to you!"
-agendaSubtitle:
-  ca: "Vine a la presentació oficial per conèixer el projecte i ajudar-nos a moure la noviolència."
-  es: "Ven a la presentación oficial para conocer el proyecto y ayudarnos a mover la noviolencia."
-  en: "Come to the official presentation in order to learn about the project and promote nonviolence."
-officialPresentation:
-  ca: "Presentació oficial"
-  es: "Presentación oficial"
-  en: "Official presentation"
-officialPresentationText:
-  ca: "Sessió dirigida a periodistes, entitats i a tota persona que pugui estar interessada en la promoció de la noviolència."
-  es: "Sesión dirigida a periodistas, entidades y a toda persona que pueda estar interesada en la promoción de la noviolencia."
-  en: "Session intended for journalists and individuals who may be interested in the promotion of nonviolence."
-septemberAbr:
-  ca: "set"
-  es: "sep"
-  en: "sep"
-octoberAbr:
-  ca: "oct"
-  es: "oct"
-  en: "oct"
-novemberAbr:
-  ca: "nov"
-  es: "nov"
-  en: "nov"
-decemberAbr:
-  ca: "des"
-  es: "dic"
-  en: "dec"
-mondayAbr:
-  ca: "dl"
-  es: "lu"
-  en: "mo"
-tuesdayAbr:
-  ca: "dt"
-  es: "ma"
-  en: "tu"
-wednesdayAbr:
-  ca: "dc"
-  es: "mi"
-  en: "we"
-thursdayAbr:
-  ca: "dj"
-  es: "ju"
-  en: "th"
-fridayAbr:
-  ca: "dv"
-  es: "vi"
-  en: "fr"
-at:
-  ca: "a les"
-  es: "a las"
-  en: "at"
-inscriptions:
-  ca: "Inscripcions"
-  es: "Inscripciones"
-  en: "Inscriptions"
 team:
   ca: "Equip"
   es: "Equipo"
