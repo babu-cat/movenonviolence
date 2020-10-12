@@ -98,6 +98,15 @@ Redirect /ca/U6/03 https://www.tolerance.org/classroom-resources/film-kits/viva-
 Redirect /ca/U6/04 http://icip.gencat.cat/web/.content/continguts/publicacions/llibres/eines/Eines22/180305-eines22_FIN.pdf
 Redirect /ca/U6/05 https://www.youtube.com/embed/caoyLrCGnYc
 
+# CA - UNITAT 7
+Redirect /ca/U7/video https://www.youtube.com/watch?v=0ULGrAU2tRI
+Redirect /ca/U7/01 /assets/07/chengyu-ca.png
+Redirect /ca/U7/02 https://www.youtube.com/embed/ZK05C7t50dI
+Redirect /ca/U7/03 https://www.youtube.com/embed/sHXeJwquwuM
+Redirect /ca/U7/04 https://www.youtube.com/embed/Op_bIT4sXnU
+Redirect /ca/U7/05 /assets/07/elefant.png
+Redirect /ca/U7/06 https://www.youtube.com/embed/NjM64jiQ3Tc
+
 # ES #
 RewriteCond %{HTTP_HOST} !^muevelanoviolencia.net$
 
@@ -166,6 +175,15 @@ Redirect /es/U6/03 https://www.tolerance.org/classroom-resources/film-kits/viva-
 Redirect /es/U6/04 https://hardymerriman.com/wp-content/uploads/2017/01/ManualSpanish.pdf
 Redirect /es/U6/05 https://www.youtube.com/embed/caoyLrCGnYc
 
+# ES - UNITAT 7
+Redirect /es/U7/video https://www.youtube.com/watch?v=87OzwrQAgvg
+Redirect /es/U7/01 /assets/07/chengyu-es.png
+Redirect /es/U7/02 https://www.youtube.com/embed/ZK05C7t50dI
+Redirect /es/U7/03 https://www.youtube.com/embed/sHXeJwquwuM
+Redirect /es/U7/04 https://www.youtube.com/embed/Op_bIT4sXnU
+Redirect /es/U7/05 /assets/07/elefant.png
+Redirect /es/U7/06 https://www.youtube.com/embed/NjM64jiQ3Tc
+
 # EN #
 RewriteCond %{HTTP_HOST} !^movenonviolence.net$
 
@@ -233,6 +251,15 @@ Redirect /en/U6/02 https://www.youtube.com/embed/1mcCLm_LwpE
 Redirect /en/U6/03 https://www.tolerance.org/classroom-resources/film-kits/viva-la-causa
 Redirect /en/U6/04 https://www.aeinstein.org/wp-content/uploads/2013/09/Civilian-Based-Defense-English.pdf
 Redirect /en/U6/05 https://www.youtube.com/embed/hGqSAtUoiVU
+
+# CA - UNITAT 7
+Redirect /en/U7/video https://www.youtube.com/watch?v=0ULGrAU2tRI
+Redirect /en/U7/01 /assets/07/chengyu-en.png
+Redirect /en/U7/02 https://www.youtube.com/embed/txA48AcJNmg
+Redirect /en/U7/03 https://www.youtube.com/embed/HwpzzAefx9M
+Redirect /en/U7/04 https://www.youtube.com/embed/JtSvwOOOTBI
+Redirect /en/U7/05 /assets/07/elefant.png
+Redirect /en/U7/06 https://www.youtube.com/embed/BYY88WNC_1Q
 
 ###################
 # PROVES INICIALS #
