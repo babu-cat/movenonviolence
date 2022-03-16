@@ -107,6 +107,38 @@ Redirect /ca/U7/04 https://www.youtube.com/embed/Op_bIT4sXnU
 Redirect /ca/U7/05 /assets/07/elefant.png
 Redirect /ca/U7/06 https://www.youtube.com/embed/NjM64jiQ3Tc
 
+# CA - UNITAT 8
+Redirect /ca/U8/video https://www.youtube.com/watch?v=G23kvvqGmR4
+Redirect /ca/U8/01 https://www.youtube.com/embed/G0yC2ldpBFI
+Redirect /ca/U8/02 https://www.youtube.com/embed/eP-mv5IjFzY
+Redirect /ca/U8/03 /assets/08/2-centuries-growth-primary-schooling.png
+Redirect /ca/U8/04 /assets/08/battle-death-rate.png
+Redirect /ca/U8/05 /assets/08/global-deaths-conflicts.png
+Redirect /ca/U8/06 https://www.youtube.com/embed/EQqjqZR0RJ0
+Redirect /ca/U8/07 https://www.youtube.com/embed/QjU8R8oj328
+Redirect /ca/U8/08 https://www.bbc.com/mundo/noticias-internacional-49435967
+Redirect /ca/U8/09 https://www.youtube.com/embed/f7XhrXUoD6U?hl=es&cc_lang_pref=es&cc_load_policy=1
+Redirect /ca/U8/10 /assets/08/desobeir-l-estrella.pdf
+Redirect /ca/U8/11 https://www.youtube.com/embed/2KgiB8hDc0o
+Redirect /ca/U8/12 https://www.youtube.com/watch?v=rK4-UVb7Ysg
+Redirect /ca/U8/13 https://www.youtube.com/embed/fE-s2z44O_U
+
+# CA - UNITAT 9
+Redirect /ca/U9/video https://www.youtube.com/watch?v=6i9Q1XSb-BA
+Redirect /ca/U9/01 /assets/09/piramide-gestio-conflictes.png
+Redirect /ca/U9/02 https://escolapau.uab.cat/municipiosypaz/municipis/Ficha03.pdf
+Redirect /ca/U9/03 http://www.rtve.es/alacarta/videos/telediario/expertos-aseguran-negociacion-se-pierde-ego-emociones-escalada/5354328/
+Redirect /ca/U9/04 https://www.youtube.com/embed/WcC4znsu2Ac
+Redirect /ca/U9/05 https://www.youtube.com/embed/nLflWQuswYg
+Redirect /ca/U9/06 https://www.youtube.com/embed/Cz5_dujSuFQ
+Redirect /ca/U9/07 http://www.rtve.es/television/20130913/documental-entre-maestros/746379.shtml
+Redirect /ca/U9/08 https://upload.wikimedia.org/wikipedia/commons/4/44/Double_pendulum_simultaneous_realisations.ogv
+Redirect /ca/U9/09 https://www.youtube.com/embed/wrbw6Z1GyKY
+Redirect /ca/U9/10 /assets/09/esquelet-cultural.png
+Redirect /ca/U9/11 https://www.youtube.com/embed/d63O8Gnadns
+Redirect /ca/U9/12 http://raisingvoices.org/good-school
+Redirect /ca/U9/13 https://www.unicef.org/media/58081/file/UNICEF-WHO-UNESCO-handbook-school-based-violence.pdf
+
 # CA - UNITAT 10
 Redirect /ca/U10/video https://www.youtube.com/watch?v=xbC6QOXSSlQ
 Redirect /ca/U10/01 https://www.colectivonoviolencia.org/comic-el-viaje-de-amanda-2/
@@ -199,6 +231,38 @@ Redirect /es/U7/04 https://www.youtube.com/embed/Op_bIT4sXnU
 Redirect /es/U7/05 /assets/07/elefant.png
 Redirect /es/U7/06 https://www.youtube.com/embed/NjM64jiQ3Tc
 
+# ES - UNITAT 8
+Redirect /es/U8/video https://www.youtube.com/watch?v=2fOXlFQiJj4
+Redirect /es/U8/01 https://www.youtube.com/embed/G0yC2ldpBFI
+Redirect /es/U8/02 https://www.youtube.com/embed/eP-mv5IjFzY
+Redirect /es/U8/03 /assets/08/2-centuries-growth-primary-schooling.png
+Redirect /es/U8/04 /assets/08/battle-death-rate.png
+Redirect /es/U8/05 /assets/08/global-deaths-conflicts.png
+Redirect /es/U8/06 https://www.youtube.com/embed/EQqjqZR0RJ0
+Redirect /es/U8/07 https://www.youtube.com/embed/QjU8R8oj328
+Redirect /es/U8/08 https://www.bbc.com/mundo/noticias-internacional-49435967
+Redirect /es/U8/09 https://www.youtube.com/embed/f7XhrXUoD6U?hl=es&cc_lang_pref=es&cc_load_policy=1
+Redirect /es/U8/10 /assets/08/desobedecer-la-estrella.pdf
+Redirect /es/U8/11 https://www.youtube.com/embed/2KgiB8hDc0o
+Redirect /es/U8/12 https://www.youtube.com/watch?v=rK4-UVb7Ysg
+Redirect /es/U8/13 https://www.youtube.com/embed/fE-s2z44O_U
+
+# ES - UNITAT 9
+Redirect /es/U9/video https://www.youtube.com/watch?v=R9JRChpaYek
+Redirect /es/U9/01 /assets/09/piramide-gestion-conflictos.png
+Redirect /es/U9/02 https://escolapau.uab.cat/municipiosypaz/municipis/Ficha03.pdf
+Redirect /es/U9/03 http://www.rtve.es/alacarta/videos/telediario/expertos-aseguran-negociacion-se-pierde-ego-emociones-escalada/5354328/
+Redirect /es/U9/04 https://www.youtube.com/embed/WcC4znsu2Ac
+Redirect /es/U9/05 https://www.youtube.com/embed/nLflWQuswYg
+Redirect /es/U9/06 https://www.youtube.com/embed/Cz5_dujSuFQ
+Redirect /es/U9/07 http://www.rtve.es/television/20130913/documental-entre-maestros/746379.shtml
+Redirect /es/U9/08 https://upload.wikimedia.org/wikipedia/commons/4/44/Double_pendulum_simultaneous_realisations.ogv
+Redirect /es/U9/09 https://www.youtube.com/embed/wrbw6Z1GyKY
+Redirect /es/U9/10 /assets/09/esqueleto-cultural.png
+Redirect /es/U9/11 https://www.youtube.com/embed/d63O8Gnadns
+Redirect /es/U9/12 http://raisingvoices.org/good-school
+Redirect /es/U9/13 https://www.unicef.org/media/58081/file/UNICEF-WHO-UNESCO-handbook-school-based-violence.pdf
+
 # ES - UNITAT 10
 Redirect /es/U10/video https://www.youtube.com/watch?v=ysrj2N8Ep0E
 Redirect /es/U10/01 https://www.colectivonoviolencia.org/comic-el-viaje-de-amanda-2/
@@ -290,6 +354,37 @@ Redirect /en/U7/03 https://www.youtube.com/embed/HwpzzAefx9M
 Redirect /en/U7/04 https://www.youtube.com/embed/JtSvwOOOTBI
 Redirect /en/U7/05 /assets/07/elefant.png
 Redirect /en/U7/06 https://www.youtube.com/embed/BYY88WNC_1Q
+
+# EN - UNITAT 8
+Redirect /en/U8/video https://www.youtube.com/watch?v=cbS2KstmW-k
+Redirect /en/U8/01 https://www.youtube.com/embed/G0yC2ldpBFI
+Redirect /en/U8/02 https://www.youtube.com/embed/eP-mv5IjFzY
+Redirect /en/U8/03 /assets/08/2-centuries-growth-primary-schooling.png
+Redirect /en/U8/04 /assets/08/battle-death-rate.png
+Redirect /en/U8/05 /assets/08/global-deaths-conflicts.png
+Redirect /en/U8/06 https://www.youtube.com/embed/EQqjqZR0RJ0
+Redirect /en/U8/07 https://www.youtube.com/embed/QjU8R8oj328
+Redirect /en/U8/08 https://www.bbc.com/mundo/noticias-internacional-49435967
+Redirect /en/U8/09 https://www.youtube.com/embed/f7XhrXUoD6U
+Redirect /en/U8/10 /assets/08/desobrey-the-star.pdf
+Redirect /en/U8/11 https://www.youtube.com/embed/CJgadZDGu58
+Redirect /en/U8/12 https://www.youtube.com/watch?v=rK4-UVb7Ysg
+Redirect /en/U8/13 https://www.youtube.com/embed/fE-s2z44O_U
+
+# EN - UNITAT 9
+Redirect /en/U9/video https://www.youtube.com/watch?v=midES6yqgqc
+Redirect /en/U9/01 /assets/09/conflict-management-pyramid.png
+Redirect /en/U9/02 https://unesdoc.unesco.org/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_5530a327-d242-459a-88fa-a27f635918e1?_=132945qaa.pdf&to=66&from=1
+Redirect /en/U9/03 https://www.youtube.com/embed/DZntD2KEJs0
+Redirect /en/U9/04 https://www.youtube.com/embed/BkrgkslnD9g
+Redirect /en/U9/05 https://www.youtube.com/embed/UzmvtVAuuyI
+Redirect /en/U9/06 https://vimeo.com/47117497
+Redirect /en/U9/07 https://www.youtube.com/embed/bnaunQx66yE
+Redirect /en/U9/08 https://upload.wikimedia.org/wikipedia/commons/4/44/Double_pendulum_simultaneous_realisations.ogv
+Redirect /en/U9/09 /assets/09/cultural-skeleton.png
+Redirect /en/U9/10 https://www.youtube.com/embed/d63O8Gnadns
+Redirect /en/U9/11 http://raisingvoices.org/good-school
+Redirect /en/U9/12 https://www.unicef.org/media/58081/file/UNICEF-WHO-UNESCO-handbook-school-based-violence.pdf
 
 # EN - UNITAT 10
 Redirect /en/U10/video https://www.youtube.com/watch?v=d8ZPM_Iq2CM
