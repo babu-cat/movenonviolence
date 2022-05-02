@@ -12,6 +12,7 @@ gem "jekyll", "~> 4.1.1"
 
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
+gem 'webrick'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
