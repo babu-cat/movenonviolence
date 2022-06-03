@@ -1,0 +1,102 @@
+%!Adobe-FontList 1.23
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CircularStd-Black
+FamilyName:Circular Std
+StyleName:Black
+FullName:Circular Std Black
+MenuName:Circular Std Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U2\Unitat didàctica\Definitius InDesign\02 CAT Moulanoviolencia\Document fonts\CircularStd-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74500
+FileModTime:1394467088
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Circular Std Black
+NameArray:0,Win,1,Circular Std Black
+NameArray:0,Win,16,Circular Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U2\Unitat didàctica\Definitius InDesign\02 CAT Moulanoviolencia\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1546104250
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PatrickHandSC-Regular
+FamilyName:Patrick Hand SC
+StyleName:Regular
+FullName:Patrick Hand SC
+MenuName:Patrick Hand SC
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U2\Unitat didàctica\Definitius InDesign\02 CAT Moulanoviolencia\Document fonts\PatrickHandSC-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:152608
+FileModTime:1523657142
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Patrick Hand SC Regular
+NameArray:0,Mac,4,Patrick Hand SC
+NameArray:0,Win,1,Patrick Hand SC
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U2\Unitat didàctica\Definitius InDesign\02 CAT Moulanoviolencia\Document fonts\times.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1195688
+FileModTime:1575713307
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
+%EndFont
+

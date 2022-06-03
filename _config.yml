@@ -25,4 +25,4 @@ collections:
     output: true
     permalink: /:path/
 
-exclude: ["README.md", "Gemfile.lock", "Gemfile"]
+exclude: ["README.md", "Gemfile.lock", "Gemfile", "pdf_indesigns"]
