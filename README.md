@@ -8,7 +8,7 @@ Web del projecte Mou la noviolència impulsat pel [Grup de Treball en Noviolènc
 
 [movenonviolence.net](https://movenonviolence.net)
 
-Desenvolupat amb Jekyll i Bootstrap 4.
+Desenvolupat amb [Jekyll](https://jekyllrb.com/) i [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/).
 
 ## Crèdits
 
