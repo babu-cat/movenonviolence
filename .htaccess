@@ -44,7 +44,7 @@ Redirect /ca/U1/06 https://www.youtube.com/watch?v=j17axG1s1fo
 
 # CA - UNITAT 2
 Redirect /ca/U2/video https://www.youtube.com/watch?v=2RLbuGnDO54
-Redirect /ca/U2/01 https://www.youtube.com/embed/LWhJhGXO9Go
+Redirect /ca/U2/01 https://www.youtube.com/watch?v=PrCIyaAhcWM
 Redirect /ca/U2/02 https://www.youtube.com/embed/79MTkVumCcQ
 Redirect /ca/U2/03 https://www.youtube.com/embed/HWzMQjNTKFo
 Redirect /ca/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215.html
@@ -168,7 +168,7 @@ Redirect /es/U1/06 https://www.youtube.com/watch?v=j17axG1s1fo
 
 # ES - UNITAT 2
 Redirect /es/U2/video https://www.youtube.com/watch?v=cTW1p74JixY
-Redirect /es/U2/01 https://www.youtube.com/embed/LWhJhGXO9Go
+Redirect /es/U2/01 https://www.youtube.com/watch?v=PrCIyaAhcWM
 Redirect /es/U2/02 https://www.youtube.com/embed/79MTkVumCcQ
 Redirect /es/U2/03 https://www.youtube.com/embed/HWzMQjNTKFo
 Redirect /es/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215.html
