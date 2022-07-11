@@ -48,7 +48,7 @@ Redirect /ca/U2/01 https://www.youtube.com/embed/LWhJhGXO9Go
 Redirect /ca/U2/02 https://www.youtube.com/embed/79MTkVumCcQ
 Redirect /ca/U2/03 https://www.youtube.com/embed/HWzMQjNTKFo
 Redirect /ca/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215.html
-Redirect /ca/U2/05 http://wus-streaming-video-msn-com.akamaized.net/c32bf1fa-e7f6-423d-b2dd-7e9e55744012/7168d4c5-5cac-45bd-9bf3-10db876a_2250.mp4
+Redirect /ca/U2/05 https://www.youtube.com/watch?v=IkojjfwrsR8
 
 # CA - UNITAT 3
 Redirect /ca/U3/video https://www.youtube.com/watch?v=KSNfO-2-OFM
@@ -172,7 +172,7 @@ Redirect /es/U2/01 https://www.youtube.com/embed/LWhJhGXO9Go
 Redirect /es/U2/02 https://www.youtube.com/embed/79MTkVumCcQ
 Redirect /es/U2/03 https://www.youtube.com/embed/HWzMQjNTKFo
 Redirect /es/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215.html
-Redirect /es/U2/05 http://wus-streaming-video-msn-com.akamaized.net/c32bf1fa-e7f6-423d-b2dd-7e9e55744012/7168d4c5-5cac-45bd-9bf3-10db876a_2250.mp4
+Redirect /es/U2/05 https://www.youtube.com/watch?v=IkojjfwrsR8
 
 # ES - UNITAT 3
 Redirect /es/U3/video https://www.youtube.com/watch?v=eHo_sh9-fe8
@@ -296,7 +296,7 @@ Redirect /en/U2/01 https://www.youtube.com/embed/LWhJhGXO9Go
 Redirect /en/U2/02 https://www.youtube.com/embed/79MTkVumCcQ
 Redirect /en/U2/03 https://www.youtube.com/embed/HWzMQjNTKFo
 Redirect /en/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215.html
-Redirect /en/U2/05 http://wus-streaming-video-msn-com.akamaized.net/c32bf1fa-e7f6-423d-b2dd-7e9e55744012/7168d4c5-5cac-45bd-9bf3-10db876a_2250.mp4
+Redirect /en/U2/05 https://youtu.be/YwMmOCcpYoY
 
 # EN - UNITAT 3
 Redirect /en/U3/video https://www.youtube.com/watch?v=TL0P20A4EVQ
