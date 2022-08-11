@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.23
-%Locale:0xc0a
+%Locale:0x403
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,14 +11,14 @@ FullName:Circular Std Black
 MenuName:Circular Std Black
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U1\Unitat didàctica\Definitius Indesign\01 CAT Moulanoviolencia\Document fonts\CircularStd-Black.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\01 CA\Document fonts\CircularStd-Black.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:74500
-FileModTime:1394467088
+FileModTime:1657565348
 WeightClass:900
 WidthClass:5
 AngleClass:0
@@ -37,14 +37,14 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U1\Unitat didàctica\Definitius Indesign\01 CAT Moulanoviolencia\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\01 CA\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1546104250
+FileModTime:1657565348
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -63,12 +63,12 @@ FullName:Patrick Hand SC
 MenuName:Patrick Hand SC
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U1\Unitat didàctica\Definitius Indesign\01 CAT Moulanoviolencia\Document fonts\PatrickHandSC-Regular.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\01 CA\Document fonts\PatrickHandSC-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:152608
-FileModTime:1523657142
+FileModTime:1657565348
 WeightClass:400
 WidthClass:5
 AngleClass:0
