@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.23
-%Locale:0xc0a
+%Locale:0x403
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,7 +11,7 @@ FullName:Circular Std Black
 MenuName:Circular Std Black
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\03 EN\Document fonts\CircularStd-Black.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\03 EN\Document fonts\CircularStd-Black.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -37,7 +37,7 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\03 EN\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\03 EN\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -63,7 +63,7 @@ FullName:Patrick Hand SC
 MenuName:Patrick Hand SC
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\03 EN\Document fonts\PatrickHandSC-Regular.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\03 EN\Document fonts\PatrickHandSC-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -87,7 +87,7 @@ FullName:Arial
 MenuName:Arial
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\03 EN\Document fonts\arial.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\03 EN\Document fonts\arial.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -110,7 +110,7 @@ FullName:Times New Roman
 MenuName:Times New Roman
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\03 EN\Document fonts\times.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\03 EN\Document fonts\times.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont

@@ -11,7 +11,7 @@ FullName:Circular Std Black
 MenuName:Circular Std Black
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\04 ES\Document fonts\CircularStd-Black.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\04 ES\Document fonts\CircularStd-Black.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -37,7 +37,7 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\04 ES\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\04 ES\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -63,7 +63,7 @@ FullName:Calibri
 MenuName:Calibri
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\04 ES\Document fonts\calibri.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\04 ES\Document fonts\calibri.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -86,7 +86,7 @@ FullName:Times New Roman Bold
 MenuName:Times New Roman
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\04 ES\Document fonts\timesbd.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\04 ES\Document fonts\timesbd.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont

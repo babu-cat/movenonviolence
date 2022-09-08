@@ -11,7 +11,7 @@ FullName:Circular Std Black
 MenuName:Circular Std Black
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\08 CA\Document fonts\CircularStd-Black.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\08 CA\Document fonts\CircularStd-Black.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -37,7 +37,7 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\08 CA\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\08 CA\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -63,7 +63,7 @@ FullName:Noto Serif Bold
 MenuName:Noto Serif
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\08 CA\Document fonts\NotoSerif-Bold.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\08 CA\Document fonts\NotoSerif-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -85,7 +85,7 @@ FullName:Arial
 MenuName:Arial
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\08 CA\Document fonts\arial.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\08 CA\Document fonts\arial.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -108,7 +108,7 @@ FullName:Times New Roman
 MenuName:Times New Roman
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\08 CA\Document fonts\times.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\08 CA\Document fonts\times.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -131,7 +131,7 @@ FullName:Times New Roman Bold
 MenuName:Times New Roman
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:D:\Dades\Pastoral\16_Lleida\CiJ\GTNOVACristiana\MouLaNoviolència\ORIGINALS Indesigns\08 CA\Document fonts\timesbd.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\08 CA\Document fonts\timesbd.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
