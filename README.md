@@ -12,25 +12,29 @@ Desenvolupat amb [Jekyll](https://jekyllrb.com/) i [Bootstrap 4](https://getboot
 
 ## Crèdits
 
-**Coordinació del projecte**
+### Coordinació del projecte
 
 Pau Cuadern Masiques i Joan Morera Perich
 
-**Creació de continguts**
+### Creació de continguts
 
 Xavier Garí de Barbarà, Marta Burguet Arfelis, Joan Morera Perich, Álvaro Medallo Domínguez i Laura Sols Balcells
 
-**Disseny i maquetació**
+### Disseny i maquetació
 
 Arantza Cadenas Aran i Pilar Rubio Tugas
 
-**Producció audiovisual**
+### Producció audiovisual
 
 NereuStudio
 
-**Disseny, desenvolupament i manteniment web**
+### Disseny, desenvolupament i manteniment web
 
 **[Francesc Bassas i Bullich](https://github.com/francescbassas)**
+
+#### col·laboradors
+
+**[Joan Morera Perich](https://github.com/joanmorera)**
 
 ## Llicència
 
