@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.23
-%Locale:0xc0a
+%Locale:0x403
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,14 +11,14 @@ FullName:Circular Std Black
 MenuName:Circular Std Black
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U9\Unitats\Definitius InDesign\movenonviolence-U9 ANG\Document fonts\CircularStd-Black.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\09 EN\Document fonts\CircularStd-Black.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:74500
-FileModTime:1394467088
+FileModTime:1654374558
 WeightClass:900
 WidthClass:5
 AngleClass:0
@@ -37,12 +37,12 @@ FullName:Ink Free
 MenuName:Ink Free
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U9\Unitats\Definitius InDesign\movenonviolence-U9 ANG\Document fonts\Inkfree.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\09 EN\Document fonts\Inkfree.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:57316
-FileModTime:1625728911
+FileModTime:1654374558
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -60,14 +60,14 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U9\Unitats\Definitius InDesign\movenonviolence-U9 ANG\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\09 EN\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1546104250
+FileModTime:1654374558
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -86,12 +86,12 @@ FullName:Arial
 MenuName:Arial
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U9\Unitats\Definitius InDesign\movenonviolence-U9 ANG\Document fonts\arial.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\09 EN\Document fonts\arial.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:1036584
-FileModTime:1575713306
+FileModTime:1654374558
 WeightClass:400
 WidthClass:5
 AngleClass:0

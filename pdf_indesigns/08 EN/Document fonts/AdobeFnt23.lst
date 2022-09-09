@@ -1,0 +1,100 @@
+%!Adobe-FontList 1.23
+%Locale:0x403
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CircularStd-Black
+FamilyName:Circular Std
+StyleName:Black
+FullName:Circular Std Black
+MenuName:Circular Std Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\08 EN\Document fonts\CircularStd-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74500
+FileModTime:1654374558
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Circular Std Black
+NameArray:0,Win,1,Circular Std Black
+NameArray:0,Win,16,Circular Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\08 EN\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1654374558
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSerif-Bold
+FamilyName:Noto Serif
+StyleName:Bold
+FullName:Noto Serif Bold
+MenuName:Noto Serif
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\08 EN\Document fonts\NotoSerif-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:570708
+FileModTime:1654374558
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\08 EN\Document fonts\arial.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1036584
+FileModTime:1654374558
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+

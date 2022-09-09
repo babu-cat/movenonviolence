@@ -44,11 +44,11 @@ Redirect /ca/U1/06 https://www.youtube.com/watch?v=j17axG1s1fo
 
 # CA - UNITAT 2
 Redirect /ca/U2/video https://www.youtube.com/watch?v=2RLbuGnDO54
-Redirect /ca/U2/01 https://www.youtube.com/embed/LWhJhGXO9Go
+Redirect /ca/U2/01 https://www.youtube.com/watch?v=PrCIyaAhcWM
 Redirect /ca/U2/02 https://www.youtube.com/embed/79MTkVumCcQ
 Redirect /ca/U2/03 https://www.youtube.com/embed/HWzMQjNTKFo
 Redirect /ca/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215.html
-Redirect /ca/U2/05 http://wus-streaming-video-msn-com.akamaized.net/c32bf1fa-e7f6-423d-b2dd-7e9e55744012/7168d4c5-5cac-45bd-9bf3-10db876a_2250.mp4
+Redirect /ca/U2/05 https://www.youtube.com/watch?v=IkojjfwrsR8
 
 # CA - UNITAT 3
 Redirect /ca/U3/video https://www.youtube.com/watch?v=KSNfO-2-OFM
@@ -59,7 +59,7 @@ Redirect /ca/U3/04 /assets/03/KKK-CAT.pdf
 Redirect /ca/U3/05 https://www.youtube.com/watch?v=peZomqY5Rek
 Redirect /ca/U3/06 https://www.youtube.com/embed/BH9N-hxUOPQ
 Redirect /ca/U3/07 https://www.youtube.com/embed/KDYdLRfnBZk
-Redirect /ca/U3/08 http://www.uca.es/recursos/doc/unidad_igualdad/360108496_1122011112253.pdf
+Redirect /ca/U3/08 https://www.juntadeandalucia.es/iam/catalogo/doc/iam/2011/143337353.pdf
 Redirect /ca/U3/09 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107260
 Redirect /ca/U3/10 https://www.sciencedaily.com/releases/2014/09/140910140856.htm
 Redirect /ca/U3/11 https://www.muyinteresante.es/salud/articulo/el-impacto-de-las-imagenes-violentas-en-el-cerebro-801410436477
@@ -69,7 +69,7 @@ Redirect /ca/U3/14 /assets/03/Conflicts.png
 Redirect /ca/U3/15 /assets/03/The-100-Worst-Atrocities-ever.png
 Redirect /ca/U3/16 /assets/03/Armas-Muertos-Tenencia.jpg
 Redirect /ca/U3/17 https://www.youtube.com/embed/sAhTRE27r14
-Redirect /ca/U3/18 http://www.kivaprogram.net/spain/evidencia-de-efectividad
+Redirect /ca/U3/18 https://espanaandorra.kivaprogram.net/kiva-is-effective/
 
 # CA - UNITAT 4
 Redirect /ca/U4/video https://www.youtube.com/watch?v=4GCQv71zdBM
@@ -95,7 +95,7 @@ Redirect /ca/U6/video https://www.youtube.com/watch?v=R0hev2BwgPE
 Redirect /ca/U6/01 https://www.youtube.com/embed/Hbufpkw76ic
 Redirect /ca/U6/02 https://www.youtube.com/embed/7JEwKNsIDBQ
 Redirect /ca/U6/03 https://www.tolerance.org/classroom-resources/film-kits/viva-la-causa
-Redirect /ca/U6/04 http://icip.gencat.cat/web/.content/continguts/publicacions/llibres/eines/Eines22/180305-eines22_FIN.pdf
+Redirect /ca/U6/04 https://www.icip.cat/wp-content/uploads/2021/01/180305-eines22_FIN.pdf
 Redirect /ca/U6/05 https://www.youtube.com/embed/caoyLrCGnYc
 
 # CA - UNITAT 7
@@ -103,9 +103,9 @@ Redirect /ca/U7/video https://www.youtube.com/watch?v=0ULGrAU2tRI
 Redirect /ca/U7/01 /assets/07/chengyu-ca.png
 Redirect /ca/U7/02 https://www.youtube.com/embed/ZK05C7t50dI
 Redirect /ca/U7/03 https://www.youtube.com/embed/sHXeJwquwuM
-Redirect /ca/U7/04 https://www.youtube.com/embed/Op_bIT4sXnU
+Redirect /ca/U7/04 https://www.youtube.com/watch?v=Op_bIT4sXnU
 Redirect /ca/U7/05 /assets/07/elefant.png
-Redirect /ca/U7/06 https://www.youtube.com/embed/NjM64jiQ3Tc
+Redirect /ca/U7/06 https://www.youtube.com/watch?v=NjM64jiQ3Tc
 
 # CA - UNITAT 8
 Redirect /ca/U8/video https://www.youtube.com/watch?v=G23kvvqGmR4
@@ -127,7 +127,7 @@ Redirect /ca/U8/13 https://www.youtube.com/embed/fE-s2z44O_U
 Redirect /ca/U9/video https://www.youtube.com/watch?v=6i9Q1XSb-BA
 Redirect /ca/U9/01 /assets/09/piramide-gestio-conflictes.png
 Redirect /ca/U9/02 https://escolapau.uab.cat/municipiosypaz/municipis/Ficha03.pdf
-Redirect /ca/U9/03 http://www.rtve.es/alacarta/videos/telediario/expertos-aseguran-negociacion-se-pierde-ego-emociones-escalada/5354328/
+Redirect /ca/U9/03 https://www.rtve.es/play/videos/telediario/expertos-aseguran-negociacion-se-pierde-ego-emociones-escalada/5354328/
 Redirect /ca/U9/04 https://www.youtube.com/embed/WcC4znsu2Ac
 Redirect /ca/U9/05 https://www.youtube.com/embed/nLflWQuswYg
 Redirect /ca/U9/06 https://www.youtube.com/embed/Cz5_dujSuFQ
@@ -147,7 +147,7 @@ Redirect /ca/U10/03 /assets/10/Potasas_Navarra.pdf
 Redirect /ca/U10/04 /assets/10/Buque_Saudí.pdf
 Redirect /ca/U10/05 https://www.youtube.com/embed/tWXkX9axcWs
 Redirect /ca/U10/06 /assets/10/Gandhi_CAT_ESP.pdf
-Redirect /ca/U10/07 https://www.youtube.com/embed/WTOeMjrzcjM?rel=0&hl=es&cc_lang_pref=es&cc_load_policy=1.
+Redirect /ca/U10/07 https://www.youtube.com/watch?v=WTOeMjrzcjM
 Redirect /ca/U10/08 https://www.youtube.com/embed/YHrnTgpbiLo
 Redirect /ca/U10/09 https://www.youtube.com/embed/-_fVFrYHfmI
 Redirect /ca/U10/10 https://vimeo.com/323297000
@@ -168,11 +168,11 @@ Redirect /es/U1/06 https://www.youtube.com/watch?v=j17axG1s1fo
 
 # ES - UNITAT 2
 Redirect /es/U2/video https://www.youtube.com/watch?v=cTW1p74JixY
-Redirect /es/U2/01 https://www.youtube.com/embed/LWhJhGXO9Go
+Redirect /es/U2/01 https://www.youtube.com/watch?v=PrCIyaAhcWM
 Redirect /es/U2/02 https://www.youtube.com/embed/79MTkVumCcQ
 Redirect /es/U2/03 https://www.youtube.com/embed/HWzMQjNTKFo
 Redirect /es/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215.html
-Redirect /es/U2/05 http://wus-streaming-video-msn-com.akamaized.net/c32bf1fa-e7f6-423d-b2dd-7e9e55744012/7168d4c5-5cac-45bd-9bf3-10db876a_2250.mp4
+Redirect /es/U2/05 https://www.youtube.com/watch?v=IkojjfwrsR8
 
 # ES - UNITAT 3
 Redirect /es/U3/video https://www.youtube.com/watch?v=eHo_sh9-fe8
@@ -183,7 +183,7 @@ Redirect /es/U3/04 /assets/03/KKK-ESP.pdf
 Redirect /es/U3/05 https://www.youtube.com/embed/peZomqY5Rek
 Redirect /es/U3/06 https://www.youtube.com/embed/BH9N-hxUOPQ
 Redirect /es/U3/07 https://www.youtube.com/embed/KDYdLRfnBZk
-Redirect /es/U3/08 http://www.uca.es/recursos/doc/unidad_igualdad/360108496_1122011112253.pdf
+Redirect /es/U3/08 https://www.juntadeandalucia.es/iam/catalogo/doc/iam/2011/143337353.pdf
 Redirect /es/U3/09 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107260
 Redirect /es/U3/10 https://www.sciencedaily.com/releases/2014/09/140910140856.htm
 Redirect /es/U3/11 https://www.muyinteresante.es/salud/articulo/el-impacto-de-las-imagenes-violentas-en-el-cerebro-801410436477
@@ -193,7 +193,7 @@ Redirect /es/U3/14 /assets/03/Conflicts.png
 Redirect /es/U3/15 /assets/03/The-100-Worst-Atrocities-ever.png
 Redirect /es/U3/16 /assets/03/Armas-Muertos-Tenencia.jpg
 Redirect /es/U3/17 https://www.youtube.com/embed/sAhTRE27r14
-Redirect /es/U3/18 http://www.kivaprogram.net/spain/evidencia-de-efectividad
+Redirect /es/U3/18 https://espanaes.kivaprogram.net/kiva-is-effective/
 
 # ES - UNITAT 4
 Redirect /es/U4/video https://www.youtube.com/watch?v=vZrkJFm-MD8
@@ -227,9 +227,9 @@ Redirect /es/U7/video https://www.youtube.com/watch?v=87OzwrQAgvg
 Redirect /es/U7/01 /assets/07/chengyu-es.png
 Redirect /es/U7/02 https://www.youtube.com/embed/ZK05C7t50dI
 Redirect /es/U7/03 https://www.youtube.com/embed/sHXeJwquwuM
-Redirect /es/U7/04 https://www.youtube.com/embed/Op_bIT4sXnU
+Redirect /es/U7/04 https://www.youtube.com/watch?v=Op_bIT4sXnU
 Redirect /es/U7/05 /assets/07/elefant.png
-Redirect /es/U7/06 https://www.youtube.com/embed/NjM64jiQ3Tc
+Redirect /es/U7/06 https://www.youtube.com/watch?v=NjM64jiQ3Tc
 
 # ES - UNITAT 8
 Redirect /es/U8/video https://www.youtube.com/watch?v=2fOXlFQiJj4
@@ -271,7 +271,7 @@ Redirect /es/U10/03 /assets/10/Potasas_Navarra.pdf
 Redirect /es/U10/04 /assets/10/Buque_Saudí.pdf
 Redirect /es/U10/05 https://www.youtube.com/embed/tWXkX9axcWs
 Redirect /es/U10/06 /assets/10/Gandhi_CAT_ESP.pdf
-Redirect /es/U10/07 https://www.youtube.com/embed/WTOeMjrzcjM?rel=0&hl=es&cc_lang_pref=es&cc_load_policy=1.
+Redirect /es/U10/07 https://www.youtube.com/watch?v=WTOeMjrzcjM
 Redirect /es/U10/08 https://www.youtube.com/embed/YHrnTgpbiLo
 Redirect /es/U10/09 https://www.youtube.com/embed/-_fVFrYHfmI
 Redirect /es/U10/10 https://vimeo.com/323297000
@@ -296,7 +296,7 @@ Redirect /en/U2/01 https://www.youtube.com/embed/LWhJhGXO9Go
 Redirect /en/U2/02 https://www.youtube.com/embed/79MTkVumCcQ
 Redirect /en/U2/03 https://www.youtube.com/embed/HWzMQjNTKFo
 Redirect /en/U2/04 https://elpais.com/diario/2010/07/26/espana/1280095206_850215.html
-Redirect /en/U2/05 http://wus-streaming-video-msn-com.akamaized.net/c32bf1fa-e7f6-423d-b2dd-7e9e55744012/7168d4c5-5cac-45bd-9bf3-10db876a_2250.mp4
+Redirect /en/U2/05 https://www.youtube.com/watch?v=mQJP5XGMtoY
 
 # EN - UNITAT 3
 Redirect /en/U3/video https://www.youtube.com/watch?v=TL0P20A4EVQ
@@ -307,7 +307,7 @@ Redirect /en/U3/04 /assets/03/KKK-ENG.pdf
 Redirect /en/U3/05 https://www.youtube.com/embed/peZomqY5Rek
 Redirect /en/U3/06 https://www.youtube.com/embed/BH9N-hxUOPQ
 Redirect /en/U3/07 https://www.youtube.com/watch?v=KDYdLRfnBZk
-Redirect /en/U3/08 http://www.uca.es/recursos/doc/unidad_igualdad/360108496_1122011112253.pdf
+Redirect /en/U3/08 https://www.juntadeandalucia.es/iam/catalogo/doc/iam/2011/143337353.pdf
 Redirect /en/U3/09 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107260
 Redirect /en/U3/10 https://www.sciencedaily.com/releases/2014/09/140910140856.htm
 Redirect /en/U3/11 https://www.muyinteresante.es/salud/articulo/el-impacto-de-las-imagenes-violentas-en-el-cerebro-801410436477
@@ -317,7 +317,7 @@ Redirect /en/U3/14 /assets/03/Conflicts.png
 Redirect /en/U3/15 /assets/03/The-100-Worst-Atrocities-ever.png
 Redirect /en/U3/16 /assets/03/Guns-deaths-ownership.png
 Redirect /en/U3/17 https://www.youtube.com/embed/YJSehRlU34w
-Redirect /en/U3/18 http://www.kivaprogram.net/is-kiva-effective
+Redirect /en/U3/18 https://www.kivaprogram.net/kiva-is-effective/
 
 # EN - UNITAT 4
 Redirect /en/U4/video https://www.youtube.com/watch?v=pzvql-HMGWw
@@ -330,12 +330,12 @@ Redirect /en/U5/video https://www.youtube.com/watch?v=HOTxQrtiMGg
 Redirect /en/U5/01 https://www.youtube.com/embed/OsFEV35tWsg?hl=en&cc_lang_pref=en&cc_load_policy=1
 Redirect /en/U5/02 https://www.youtube.com/embed/lwcgG6SwapI
 Redirect /en/U5/03 https://www.youtube.com/embed/KdYo5jn29w4
-Redirect /en/U5/04 https://www.rappler.com/move-ph/185345-sumilao-farmers-decade-after-march
-Redirect /en/U5/05 https://www.youtube.com/embed/_VF_cpbhamU
-Redirect /en/U5/06 https://www.youtube.com/embed/H7zBWMPq-kU
+Redirect /en/U5/04 https://www.rappler.com/moveph/185345-sumilao-farmers-decade-after-march/
+Redirect /en/U5/05 https://www.youtube.com/watch?v=_VF_cpbhamU
+Redirect /en/U5/06 https://www.youtube.com/watch?v=GRVpWwMXrl8
 Redirect /en/U5/07 https://www.youtube.com/embed/9Hq9rf0XgrI
 Redirect /en/U5/08 https://www.youtube.com/embed/OIpgrZ8yS-Q?hl=en&cc_lang_pref=en&cc_load_policy=1
-Redirect /en/U5/09 https://www.youtube.com/watch?v=rH_d_L33V2s
+Redirect /en/U5/09 https://www.youtube.com/embed/q_93nOqwmhU
 Redirect /en/U5/10 https://www.youtube.com/embed/r8i9MPTVhuk
 
 # EN - UNITAT 6
@@ -347,7 +347,7 @@ Redirect /en/U6/04 https://www.aeinstein.org/wp-content/uploads/2013/09/Civilian
 Redirect /en/U6/05 https://www.youtube.com/embed/hGqSAtUoiVU
 
 # EN - UNITAT 7
-Redirect /en/U7/video https://www.youtube.com/watch?v=0ULGrAU2tRI
+Redirect /en/U7/video https://www.youtube.com/watch?v=x00SMtbAlHA
 Redirect /en/U7/01 /assets/07/chengyu-en.png
 Redirect /en/U7/02 https://www.youtube.com/embed/txA48AcJNmg
 Redirect /en/U7/03 https://www.youtube.com/embed/HwpzzAefx9M
@@ -366,8 +366,8 @@ Redirect /en/U8/06 https://www.youtube.com/embed/EQqjqZR0RJ0
 Redirect /en/U8/07 https://www.youtube.com/embed/QjU8R8oj328
 Redirect /en/U8/08 https://www.bbc.com/mundo/noticias-internacional-49435967
 Redirect /en/U8/09 https://www.youtube.com/embed/f7XhrXUoD6U
-Redirect /en/U8/10 /assets/08/desobrey-the-star.pdf
-Redirect /en/U8/11 https://www.youtube.com/embed/CJgadZDGu58
+Redirect /en/U8/10 /assets/08/desobey-the-star.pdf
+Redirect /en/U8/11 https://www.youtube.com/watch?v=CJgadZDGu58
 Redirect /en/U8/12 https://www.youtube.com/watch?v=rK4-UVb7Ysg
 Redirect /en/U8/13 https://www.youtube.com/embed/fE-s2z44O_U
 
@@ -375,10 +375,10 @@ Redirect /en/U8/13 https://www.youtube.com/embed/fE-s2z44O_U
 Redirect /en/U9/video https://www.youtube.com/watch?v=midES6yqgqc
 Redirect /en/U9/01 /assets/09/conflict-management-pyramid.png
 Redirect /en/U9/02 https://unesdoc.unesco.org/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_5530a327-d242-459a-88fa-a27f635918e1?_=132945qaa.pdf&to=66&from=1
-Redirect /en/U9/03 https://www.youtube.com/embed/DZntD2KEJs0
+Redirect /en/U9/03 https://www.youtube.com/watch?v=RfTalFEeKKE
 Redirect /en/U9/04 https://www.youtube.com/embed/BkrgkslnD9g
 Redirect /en/U9/05 https://www.youtube.com/embed/UzmvtVAuuyI
-Redirect /en/U9/06 https://vimeo.com/47117497
+Redirect /en/U9/06 https://www.youtube.com/watch?v=U4jPZe-cZgc
 Redirect /en/U9/07 https://www.youtube.com/embed/bnaunQx66yE
 Redirect /en/U9/08 https://upload.wikimedia.org/wikipedia/commons/4/44/Double_pendulum_simultaneous_realisations.ogv
 Redirect /en/U9/09 /assets/09/cultural-skeleton.png
@@ -394,7 +394,7 @@ Redirect /en/U10/03 /assets/10/IcelandWomen.pdf
 Redirect /en/U10/04 /assets/10/ItalianUnions.pdf
 Redirect /en/U10/05 https://www.youtube.com/embed/tWXkX9axcWs
 Redirect /en/U10/06 /assets/10/ArunGandhi_ENG.pdf
-Redirect /en/U10/07 https://www.youtube.com/embed/WTOeMjrzcjM?rel=0&hl=es&cc_lang_pref=es&cc_load_policy=1.
+Redirect /en/U10/07 https://www.youtube.com/watch?v=WTOeMjrzcjM
 Redirect /en/U10/08 https://www.youtube.com/embed/YHrnTgpbiLo
 Redirect /en/U10/09 https://wagingnonviolence.org/2013/08/nonviolent-self-defense-and-race-a-personal-story/
 Redirect /en/U10/10 https://vimeo.com/323297000

@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.23
-%Locale:0xc0a
+%Locale:0x403
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,12 +11,12 @@ FullName:Book Antiqua
 MenuName:Book Antiqua
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U10\Unitat didàctica\Definitius InDesign\Moulanoviolencia 10 CAT\Document fonts\BKANT.TTF
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\10 CA\Document fonts\BKANT.TTF
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:155528
-FileModTime:1438219488
+FileModTime:1654374558
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -34,14 +34,14 @@ FullName:Circular Std Black
 MenuName:Circular Std Black
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U10\Unitat didàctica\Definitius InDesign\Moulanoviolencia 10 CAT\Document fonts\CircularStd-Black.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\10 CA\Document fonts\CircularStd-Black.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:74500
-FileModTime:1394467088
+FileModTime:1654374558
 WeightClass:900
 WidthClass:5
 AngleClass:0
@@ -60,12 +60,12 @@ FullName:Domestic Manners
 MenuName:Domestic Manners
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U10\Unitat didàctica\Definitius InDesign\Moulanoviolencia 10 CAT\Document fonts\Domestic_Manners.ttf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\10 CA\Document fonts\Domestic_Manners.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:71116
-FileModTime:1610626306
+FileModTime:1654374558
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -85,14 +85,14 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U10\Unitat didàctica\Definitius InDesign\Moulanoviolencia 10 CAT\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\10 CA\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1546104250
+FileModTime:1654374558
 WeightClass:400
 WidthClass:5
 AngleClass:0
