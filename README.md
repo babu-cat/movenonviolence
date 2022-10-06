@@ -32,7 +32,7 @@ NereuStudio
 
 **[Francesc Bassas i Bullich](https://github.com/francescbassas)**
 
-#### col·laboradors
+#### Col·laboradors
 
 **[Joan Morera Perich](https://github.com/joanmorera)**
 
