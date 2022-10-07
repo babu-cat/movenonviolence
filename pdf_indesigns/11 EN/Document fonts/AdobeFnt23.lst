@@ -1,0 +1,55 @@
+%!Adobe-FontList 1.23
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CircularStd-Black
+FamilyName:Circular Std
+StyleName:Black
+FullName:Circular Std Black
+MenuName:Circular Std Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U11\Originals Illustrator\Carpeta movenonviolence-U11\Document fonts\CircularStd-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74500
+FileModTime:1394467088
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Circular Std Black
+NameArray:0,Win,1,Circular Std Black
+NameArray:0,Win,16,Circular Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U11\Originals Illustrator\Carpeta movenonviolence-U11\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1546104250
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

@@ -157,6 +157,39 @@ Redirect /ca/U10/10 https://vimeo.com/323297000
 Redirect /ca/U10/11 https://www.youtube.com/embed/sQJtwNz51lw
 Redirect /ca/U10/12 /assets/10/Love.jpg
 
+# CA - UNITAT 11
+Redirect /ca/U11/video https://www.youtube.com/watch?v=mSnVgrFqTnY
+Redirect /ca/U11/01 /assets/11/SímbolsReligiosos_CAT.png
+Redirect /ca/U11/02 https://justicia.gencat.cat/ca/ambits/afers-religiosos/recursos/Audiovisuals/Videos-joves/
+Redirect /ca/U11/03 https://www.youtube.com/watch?v=2cjUFJqRJ6s
+Redirect /ca/U11/04 /assets/11/equitat_CAT.png
+
+# CA - UNITAT 12
+Redirect /ca/U12/video https://www.youtube.com/watch?1Sp4xwTehC8
+Redirect /ca/U12/01 /assets/12/TriangleGaltung_CAT.jpg
+Redirect /ca/U12/02 https://youtu.be/w1sHAGAuceE
+Redirect /ca/U12/03 https://www.ted.com/talks/meera_vijayann_find_your_voice_against_gender_violence?language=es
+Redirect /ca/U12/04 https://youtu.be/mk3K_Vrve-E
+Redirect /ca/U12/05 https://youtu.be/ec9itKEkdUk
+Redirect /ca/U12/06 https://www.youtube.com/watch?v=IL7aKalhMB4
+Redirect /ca/U12/07 https://youtu.be/WW1WYJcO5xI
+Redirect /ca/U12/08 https://youtu.be/RPdD4-LPxKA
+Redirect /ca/U12/09 https://www.youtube.com/embed/2juvZdXlkes?hl=ca&cc_lang_pref=ca&cc_load_policy=1
+Redirect /ca/U12/10 https://youtu.be/5avVxBKU43Q
+Redirect /ca/U12/11 https://youtu.be/EsitS4dMtyE
+Redirect /ca/U12/12 https://youtu.be/s6tyg0lGYwI
+Redirect /ca/U12/13 https://youtu.be/IpaabDdQNO8
+Redirect /ca/U12/14 https://youtu.be/hrbR0U2pqko
+Redirect /ca/U12/15 https://youtu.be/APFeTvvCejo
+Redirect /ca/U12/16 https://youtu.be/6sPXJYm1IMY
+Redirect /ca/U12/17 https://youtu.be/pR3yegm-kM0
+Redirect /ca/U12/18 https://youtu.be/p3_pWcsXKuU
+Redirect /ca/U12/19 https://youtu.be/N4IWoGT0txU
+Redirect /ca/U12/20 https://youtu.be/eKWSXBJIpyo
+Redirect /ca/U12/21 https://youtu.be/wl3CLakCZmA
+Redirect /ca/U12/22 https://youtu.be/ieoQuKUxhnM
+Redirect /ca/U12/23 https://youtu.be/2rEcPYu0Bj8
+
 # ES #
 RewriteCond %{HTTP_HOST} !^muevelanoviolencia.net$
 
@@ -281,6 +314,39 @@ Redirect /es/U10/10 https://vimeo.com/323297000
 Redirect /es/U10/11 https://www.youtube.com/embed/sQJtwNz51lw
 Redirect /es/U10/12 /assets/10/Love.jpg
 
+# ES - UNITAT 11
+Redirect /es/U11/video https://www.youtube.com/watch?v=ErTcqAexLl0
+Redirect /es/U11/01 /assets/11/SímbolsReligiosos_ESP.png
+Redirect /es/U11/02 http://encuentro.gob.ar/programas/serie/8673/7331?temporada=1
+Redirect /es/U11/03 https://www.youtube.com/watch?v=2cjUFJqRJ6s
+Redirect /es/U11/04 /assets/11/equitat_ESP.png
+
+# ES - UNITAT 12
+Redirect /es/U12/video https://www.youtube.com/watch?4OCSvF-MTU8
+Redirect /es/U12/01 /assets/12/TriangleGaltung_ESP.jpg
+Redirect /es/U12/02 https://youtu.be/w1sHAGAuceE
+Redirect /es/U12/03 https://www.ted.com/talks/meera_vijayann_find_your_voice_against_gender_violence?language=es
+Redirect /es/U12/04 https://youtu.be/mk3K_Vrve-E
+Redirect /es/U12/05 https://youtu.be/ec9itKEkdUk
+Redirect /es/U12/06 https://www.youtube.com/watch?v=IL7aKalhMB4
+Redirect /es/U12/07 https://youtu.be/WW1WYJcO5xI
+Redirect /es/U12/08 https://youtu.be/EPVR-a0vwCU
+Redirect /es/U12/09 https://www.youtube.com/embed/2juvZdXlkes?hl=es&cc_lang_pref=es&cc_load_policy=1
+Redirect /es/U12/10 https://youtu.be/5avVxBKU43Q
+Redirect /es/U12/11 https://youtu.be/EsitS4dMtyE
+Redirect /es/U12/12 https://youtu.be/suq_0NP_ObE
+Redirect /es/U12/13 https://youtu.be/IpaabDdQNO8
+Redirect /es/U12/14 https://youtu.be/WVRKdakH6fw
+Redirect /es/U12/15 https://youtu.be/dCVGLjxjm20
+Redirect /es/U12/16 https://youtu.be/6sPXJYm1IMY
+Redirect /es/U12/17 https://youtu.be/pR3yegm-kM0
+Redirect /es/U12/18 https://youtu.be/p3_pWcsXKuU
+Redirect /es/U12/19 https://youtu.be/N4IWoGT0txU
+Redirect /es/U12/20 https://youtu.be/eKWSXBJIpyo
+Redirect /es/U12/21 https://youtu.be/wl3CLakCZmA
+Redirect /es/U12/22 https://youtu.be/ieoQuKUxhnM
+Redirect /es/U12/23 https://youtu.be/2rEcPYu0Bj8
+
 # EN #
 RewriteCond %{HTTP_HOST} !^movenonviolence.net$
 
@@ -403,3 +469,36 @@ Redirect /en/U10/09 https://wagingnonviolence.org/2013/08/nonviolent-self-defens
 Redirect /en/U10/10 https://vimeo.com/323297000
 Redirect /en/U10/11 https://www.youtube.com/embed/0YMxk3v7mVY
 Redirect /en/U10/12 /assets/10/Love.jpg
+
+# EN - UNITAT 11
+Redirect /en/U11/video https://www.youtube.com/watch?v=K30jOA2JMQs
+Redirect /en/U11/01 /assets/11/SímbolsReligions_ENG.png
+Redirect /en/U11/02 Las cinco principales religiones del mundo - John Bellaimey - YouTube
+Redirect /en/U11/03 https://youtu.be/h_VA7mWWn58ss
+Redirect /en/U11/04 /assets/11/equitat_ENG.png
+
+# EN - UNITAT 12
+Redirect /en/U12/video https://www.youtube.com/watch?JkRN5wP6lJU
+Redirect /en/U12/01 /assets/12/TriangleGaltung_ENG.jpg
+Redirect /en/U12/02 https://youtu.be/w1sHAGAuceE
+Redirect /en/U12/03 https://www.ted.com/talks/meera_vijayann_find_your_voice_against_gender_violence?language=es
+Redirect /en/U12/04 https://youtu.be/mk3K_Vrve-E
+Redirect /en/U12/05 https://youtu.be/ec9itKEkdUk
+Redirect /en/U12/06 https://youtu.be/v6ucfbcImLQ
+Redirect /en/U12/07 https://youtu.be/LNmKKqgn4hI
+Redirect /en/U12/08 https://youtu.be/mmL2KFQyyKw
+Redirect /en/U12/09 https://youtu.be/2juvZdXlkes
+Redirect /en/U12/10 https://youtu.be/doxxfXqpKYA
+Redirect /en/U12/11 https://youtu.be/uOpvALcxndM
+Redirect /en/U12/12 https://youtu.be/SOaEIiHT4tI
+Redirect /en/U12/13 https://youtu.be/WOyg6IrfuzA
+Redirect /en/U12/14 https://youtu.be/OX2e9sii9KI
+Redirect /en/U12/15 https://youtu.be/Qu40vjL0g7M
+Redirect /en/U12/16 https://youtu.be/80tjJmXc0sI
+Redirect /en/U12/17 https://youtu.be/VlGGeoHfGWM
+Redirect /en/U12/18 https://youtu.be/ibi4noJRtps
+Redirect /en/U12/19 https://youtu.be/vZRzJJcq6Rs
+Redirect /en/U12/20 https://youtu.be/eKWSXBJIpyo
+Redirect /en/U12/21 https://youtu.be/wl3CLakCZmA
+Redirect /en/U12/22 https://youtu.be/7WfT7FjJnwk
+Redirect /en/U12/23 https://youtu.be/CEivufW2IWs
