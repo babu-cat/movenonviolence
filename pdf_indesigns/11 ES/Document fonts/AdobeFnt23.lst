@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.23
-%Locale:0xc0a
+%Locale:0x403
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,14 +11,14 @@ FullName:Circular Std Black
 MenuName:Circular Std Black
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U11\Originals Illustrator\Carpeta muevelanoviolencia-U11\Document fonts\CircularStd-Black.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\11 ES\Document fonts\CircularStd-Black.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:74500
-FileModTime:1394467088
+FileModTime:1670516956
 WeightClass:900
 WidthClass:5
 AngleClass:0
@@ -37,14 +37,14 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:Z:\Projectes\Mou La Noviolència\Unitats\U11\Originals Illustrator\Carpeta muevelanoviolencia-U11\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\RIK\Documents\GitHub\MoveNonviolence\pdf_indesigns\11 ES\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:1546104250
+FileModTime:1670516956
 WeightClass:400
 WidthClass:5
 AngleClass:0
