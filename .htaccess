@@ -166,7 +166,7 @@ Redirect /ca/U11/04 /assets/11/equitat_CAT.png
 
 # CA - UNITAT 12
 Redirect /ca/U12/video https://www.youtube.com/watch?1Sp4xwTehC8
-Redirect /ca/U12/01 /assets/12/TriangleGaltung_CAT.jpg
+Redirect /ca/U12/01 /assets/12/TriangleGaltung_CAT.png
 Redirect /ca/U12/02 https://youtu.be/w1sHAGAuceE
 Redirect /ca/U12/03 https://www.ted.com/talks/meera_vijayann_find_your_voice_against_gender_violence?language=es
 Redirect /ca/U12/04 https://youtu.be/mk3K_Vrve-E
@@ -323,7 +323,7 @@ Redirect /es/U11/04 /assets/11/equitat_ESP.png
 
 # ES - UNITAT 12
 Redirect /es/U12/video https://www.youtube.com/watch?4OCSvF-MTU8
-Redirect /es/U12/01 /assets/12/TriangleGaltung_ESP.jpg
+Redirect /es/U12/01 /assets/12/TriangleGaltung_ESP.png
 Redirect /es/U12/02 https://youtu.be/w1sHAGAuceE
 Redirect /es/U12/03 https://www.ted.com/talks/meera_vijayann_find_your_voice_against_gender_violence?language=es
 Redirect /es/U12/04 https://youtu.be/mk3K_Vrve-E
@@ -338,7 +338,7 @@ Redirect /es/U12/12 https://youtu.be/suq_0NP_ObE
 Redirect /es/U12/13 https://youtu.be/IpaabDdQNO8
 Redirect /es/U12/14 https://youtu.be/WVRKdakH6fw
 Redirect /es/U12/15 https://youtu.be/dCVGLjxjm20
-Redirect /es/U12/16 https://youtu.be/6sPXJYm1IMY
+Redirect /es/U12/16 https://youtu.be/fFIkfTqSV0g
 Redirect /es/U12/17 https://youtu.be/pR3yegm-kM0
 Redirect /es/U12/18 https://youtu.be/p3_pWcsXKuU
 Redirect /es/U12/19 https://youtu.be/N4IWoGT0txU
@@ -472,14 +472,14 @@ Redirect /en/U10/12 /assets/10/Love.jpg
 
 # EN - UNITAT 11
 Redirect /en/U11/video https://www.youtube.com/watch?v=K30jOA2JMQs
-Redirect /en/U11/01 /assets/11/SímbolsReligions_ENG.png
+Redirect /en/U11/01 /assets/11/SímbolsReligiosos_ENG.png
 Redirect /en/U11/02 https://www.youtube.com/watch?app=desktop&v=m6dCxo7t_aE
-Redirect /en/U11/03 https://youtu.be/h_VA7mWWn58ss
+Redirect /en/U11/03 https://youtu.be/KkwmYlgkOhU
 Redirect /en/U11/04 /assets/11/equitat_ENG.png
 
 # EN - UNITAT 12
 Redirect /en/U12/video https://www.youtube.com/watch?JkRN5wP6lJU
-Redirect /en/U12/01 /assets/12/TriangleGaltung_ENG.jpg
+Redirect /en/U12/01 /assets/12/TriangleGaltung_ENG.png
 Redirect /en/U12/02 https://youtu.be/w1sHAGAuceE
 Redirect /en/U12/03 https://www.ted.com/talks/meera_vijayann_find_your_voice_against_gender_violence?language=es
 Redirect /en/U12/04 https://youtu.be/mk3K_Vrve-E
@@ -494,7 +494,7 @@ Redirect /en/U12/12 https://youtu.be/SOaEIiHT4tI
 Redirect /en/U12/13 https://youtu.be/WOyg6IrfuzA
 Redirect /en/U12/14 https://youtu.be/OX2e9sii9KI
 Redirect /en/U12/15 https://youtu.be/Qu40vjL0g7M
-Redirect /en/U12/16 https://youtu.be/80tjJmXc0sI
+Redirect /en/U12/16 https://youtu.be/80tjJmXc0sI?t=188
 Redirect /en/U12/17 https://youtu.be/VlGGeoHfGWM
 Redirect /en/U12/18 https://youtu.be/ibi4noJRtps
 Redirect /en/U12/19 https://youtu.be/vZRzJJcq6Rs
