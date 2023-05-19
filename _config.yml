@@ -26,3 +26,6 @@ collections:
     permalink: /:path/
 
 exclude: ["README.md", "Gemfile.lock", "Gemfile", "pdf_indesigns"]
+
+# Google Analytics
+google_analytics: "277160913"
